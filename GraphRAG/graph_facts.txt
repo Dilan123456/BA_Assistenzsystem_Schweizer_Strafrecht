@@ -1,0 +1,1241 @@
+'Strafe oder Massnahme' ist zulässig bei 'gesetzlich strafbare Tat'.
+'Täter' wird beurteilt nach 'gültiges Strafgesetz bei Tatzeit'.
+'Täter' ist unterworfen 'Schweizer Strafgesetz bei Inlandtat'.
+'Täter' ist unterworfen 'Schweizer Strafgesetz bei Auslandtat gegen Staat'.
+'Täter' ist unterworfen 'Schweizer Strafgesetz bei Auslandstat gegen Minderjährige'.
+'Täter' ist unterworfen 'Schweizer Strafgesetz bei Übereinkommenstat im Ausland'.
+'Täter' ist unterworfen 'Schweizer Strafgesetz bei Auslandstat ohne Spezialvoraussetzungen'.
+'Täter' ist strafbar bei 'beruflicher oder organisierter ausserberuflicher Tätigkeit'.
+'Täter' ist strafbar bei 'Annahme gefälschten Geldes als echt'.
+'Täter' ist strafbar bei 'Begehung der Tat im Ausland und Aufenthalt in der Schweiz'.
+'Täter' wird angehört bei 'Behandlungsprüfung'.
+'Täter' erhält Behandlung bei 'positiver Prognose'.
+'Täter' begeht 'Verbrechen oder Vergehen'.
+'Täter' begeht 'vorsätzliche Tötung'.
+'Täter' begeht 'Inverkehrbringen gesundheitsschädlichen Futters'.
+'Täter' begeht 'Störung des öffentlichen Verkehrs'.
+'Täter' begeht 'Störung öffentlicher Versorgungsbetriebe'.
+'Täter' begeht 'Geldfälschung'.
+'Täter' begeht 'Geldverfälschung'.
+'Täter' begeht 'Inumlaufbringen gefälschten Geldes'.
+'Täter' begeht 'gefährdende Nachahmung von Geld ohne Fälschungsabsicht'.
+'Täter' begeht 'Einführen oder Lagern gefälschten Geldes'.
+'Täter' begeht 'Fälschung amtlicher Wertzeichen'.
+'Täter' begeht 'Fälschung amtlicher Prüfzeichen'.
+'Täter' begeht 'Herstellung oder Gebrauch von Fälschungsgeräten'.
+'Täter' begeht 'Täuschung durch falsche Messmittel'.
+'Täter' begeht 'Urkundenfälschung'.
+'Täter' begeht 'Fälschung von Ausweisen oder Zeugnissen'.
+'Täter' begeht 'Täuschung eines Beamten zur Urkundenerschleichung'.
+'Täter' begeht 'Urkundenunterdrückung mit Schädigungsabsicht'.
+'Täter' begeht 'Verfälschung oder Beseitigung von Grenzzeichen'.
+'Täter' begeht 'Verfälschung öffentlicher Vermessungszeichen'.
+'Täter' begeht 'Androhung oder Vorspiegelung einer Gefahr'.
+'Täter' begeht 'öffentliche Aufforderung zu Gewaltverbrechen'.
+'Täter' begeht 'planmässige Vorbereitung schwerer Verbrechen'.
+'Täter' begeht 'Beteiligung an krimineller Organisation'.
+'Täter' begeht 'Weitergabe von Waffen zur Verbrechensbegehung'.
+'Täter' begeht 'Terrorismusfinanzierung'.
+'Täter' begeht 'Anwerbung oder Ausbildung zu Gewaltverbrechen'.
+'Täter' begeht 'grenzüberschreitende Reise zur Verbrechensbegehung'.
+'Täter' begeht 'Verletzung religiöser Gefühle'.
+'Täter' begeht 'öffentliche Diskriminierung oder Aufruf zu Hass'.
+'Täter' begeht 'Verunehrung eines Toten oder einer Leichenfeier'.
+'Täter' begeht 'Tat im Zustand selbstverschuldeter Unzurechnungsfähigkeit'.
+'Täter' begeht 'Völkermord'.
+'Täter' begeht 'Verbrechen gegen die Menschlichkeit'.
+'Täter' begeht 'schwere Verletzung der Genfer Konventionen'.
+'Täter' begeht 'Angriff auf geschützte Ziele im bewaffneten Konflikt'.
+'Täter' begeht 'medizinisch ungerechtfertigte Eingriffe an geschützten Personen'.
+'Täter' begeht 'sexuelle Gewalt gegen geschützte Personen'.
+'Täter' begeht 'erniedrigende Behandlung geschützter Personen'.
+'Täter' begeht 'Rekrutierung oder Einsatz von Kindern in bewaffneten Konflikten'.
+'Täter' begeht 'unverhältnismäßiger Angriff in bewaffnetem Konflikt'.
+'Täter' begeht 'Missbrauch geschützter Personen oder Symbole'.
+'Täter' begeht 'Plünderung oder Zerstörung nicht gebotener Art'.
+'Täter' begeht 'Verwendung verbotener Waffen im bewaffneten Konflikt'.
+'Täter' begeht 'Verstoss gegen Waffenstillstand oder Umgang mit Parlamentären'.
+'Täter' begeht 'sonstige Verletzung humanitären Völkerrechts'.
+'Täter' begeht 'gewaltsamer Angriff auf Bundes- oder Kantonsverfassung'.
+'Täter' begeht 'Angriff auf Unabhängigkeit der Eidgenossenschaft'.
+'Täter' begeht 'Unterstützung ausländischer staatsgefährdender Unternehmungen'.
+'Täter' begeht 'Geheimnisverrat zum Nachteil der Eidgenossenschaft'.
+'Täter' begeht 'Verfälschung von Grenzzeichen'.
+'Täter' begeht 'völkerrechtswidriges Eindringen in die Schweiz'.
+'Täter' begeht 'Beschädigung von Hoheitszeichen'.
+'Täter' begeht 'unbefugte Ausübung fremder Staatsgewalt'.
+'Täter' begeht 'gewaltsame Entführung ins Ausland'.
+'Täter' begeht 'politischen Nachrichtendienst für fremden Staat'.
+'Täter' begeht 'Ausspähen oder Weitergabe von Geschäftsgeheimnissen'.
+'Täter' begeht 'militärischen Nachrichtendienst für fremden Staat'.
+'Täter' begeht 'rechtswidrigen Angriff auf verfassungsmässige Ordnung'.
+'Täter' begeht 'Aufruf zu Ungehorsam gegen militärische Befehle'.
+'Täter' begeht 'Fälschung militärischer Aufgebote oder Weisungen'.
+'Täter' begeht 'Störung des militärischen Dienstes'.
+'Täter' begeht 'Störung einer politischen Versammlung oder Abstimmung durch Gewalt'.
+'Täter' begeht 'Beeinflussung eines Stimmberechtigten durch Gewalt'.
+'Täter' begeht 'Wahlbestechung'.
+'Täter' begeht 'Wahl- oder Abstimmungsfälschung'.
+'Täter' begeht 'planmässige Manipulation von Wahlzetteln'.
+'Täter' begeht 'Ausspähen des Stimmverhaltens'.
+'Täter' begeht 'Gewalt oder Drohung gegen Beamte'.
+'Täter' begeht 'Behinderung amtlicher Handlung ohne Gewalt'.
+'Täter' begeht 'Amtsanmassung'.
+'Täter' begeht 'Entziehung beschlagnahmter Sache'.
+'Täter' begeht 'Erbrechen amtlicher Siegel'.
+'Täter' begeht 'Bruch einer Landes- oder Kantonsverweisung'.
+'Täter' ersucht 'Einschränkung oder Aufhebung des Verbots'.
+'Täter' bleibt straffrei bei 'freiwilliger Abbruch'.
+'milderes Gesetz' ist zulässig bei 'Rückwirkung bei späterer Beurteilung'.
+'vollzogene Auslandstrafe' wird angerechnet auf 'Schweizer Strafe'.
+'rechtskräftiger Freispruch im Ausland' führt zu 'Nichtverfolgung in der Schweiz'.
+'vollzogene Sanktion im Ausland' führt zu 'Nichtverfolgung in der Schweiz'.
+'vollzogene Sanktion im Ausland' führt zu 'Nichtverfolgung in der Schweiz"'.
+'nicht verbüsste Auslandstrafe' wird vollzogen 'in der Schweiz'.
+'ausländische Massnahme' wird beurteilt nach 'Entscheid Schweizer Gericht'.
+'nicht erfolgte Auslieferung' führt zu 'Schweizer Strafverfolgung'.
+'teilweise vollzogene Auslandstrafe' wird angerechnet auf 'Schweizer Strafe'.
+'Tat' ist strafbar bei 'Strafbarkeit am Begehungsort oder keiner Strafgewalt'.
+'Tat' ist strafbar bei 'Begehung im Ausland und Aufenthalt in der Schweiz'.
+'Tat' ist strafbar bei 'Verwechslungsgefahr mit echtem Geld'.
+'Tat' ist strafbar bei 'Täuschungsabsicht zur Förderung des Fortkommens'.
+'Tat' ist strafbar bei 'Begehung im Ausland und Tätigkeit in der Schweiz'.
+'Tat' ist strafbar bei 'Begehung im Ausland bei Bezug zur Schweiz'.
+'Tat' ist strafbar bei 'Angriff auf geschützte Personen oder Güter'.
+'Tat' gilt als begangen 'am Ausführungsort und Erfolgsort'.
+'Tat' besteht aus 'pflichtwidrigem Unterlassen'.
+'Tat' verlangt 'Vorsatz'.
+'Tat' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Tat' wird bestraft mit 'Geldstrafe'.
+'Tat' wird bestraft mit 'Busse'.
+'Tat' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Tat' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'Tat' wird bestraft mit 'Freiheitsstrafe ≥ 3 Jahre'.
+'Tat' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Tat' wird bestraft mit 'gleiche Strafe wie Täter'.
+'Tat' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre'.
+'Tat' wird bestraft mit 'Geldstrafe ≤ 30 Tagessätze'.
+'Tat' erfordert Antrag 'bei Nachteil für Angehörige oder Familiengenossen'.
+'Versuch' gilt als begangen 'am Ausführungsort und vorgestelltem Erfolgsort'.
+'Militärstrafrecht' ist subsidiär zu 'StGB'.
+'StGB' tritt in Kraft '1. Januar 1942'.
+'Jugendstrafgesetz' ist subsidiär zu 'StGB'.
+'Verbrechen' ist definiert durch 'Freiheitsstrafe > 3 Jahre'.
+'Vergehen' ist definiert durch 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'pflichtwidriges Unterlassen' setzt voraus 'Pflicht zur Handlung'.
+'Pflicht' richtet sich nach 'Gesetz, Vertrag, Gefahrengemeinschaft, Gefahrenschaffung'.
+'Strafbarkeit bei Unterlassen' verlangt 'Vorwerfbarkeit wie bei aktivem Tun'.
+'Gericht' kann 'Strafe mildern'.
+'Gericht' bestimmt 'Art und Umfang der Veröffentlichung'.
+'Gericht' kann anordnen 'Bewährungshilfe und Weisungen'.
+'Gericht' kann anordnen 'stationäre Massnahme statt Strafvollzug'.
+'Gericht' entscheidet über 'Ersatzfreiheitsstrafe bei Verwaltungsstrafe'.
+'Gericht' entscheidet über 'Anrechnung des Freiheitsentzugs'.
+'Gericht' entscheidet über 'Aufhebung oder bedingte Entlassung'.
+'Gericht' muss begründen 'Wahl der Freiheitsstrafe'.
+'Gericht' erklärt 'Bedeutung und Folgen der bedingten Strafe'.
+'Gericht' ermöglicht 'Anordnung von Bewährungshilfe während Verbotsdauer'.
+'Gericht' ermöglicht 'Unbrauchbarmachung oder Vernichtung eingezogener Gegenstände'.
+'Gericht' kann verpflichten zu 'Gewaltpräventionsprogramm'.
+'Gericht' informiert 'kantonale Stelle für häusliche Gewalt'.
+'Gericht' stützt sich auf 'sachverständige Begutachtung'.
+'Gericht' kann aufschieben 'Freiheitsstrafe zugunsten ambulanter Behandlung'.
+'Gericht' verfügt 'Einziehung gefährlicher Gegenstände unabhängig von Strafbarkeit'.
+'Gericht' verfügt 'Einziehung solcher Vermögenswerte'.
+'Gericht' verfügt 'Einziehung von Vermögenswerten krimineller Organisation'.
+'Gericht' verfügt 'Verwarnung und Verlängerung der Probezeit'.
+'Gericht' bemisst 'Busse nach Schwere, Schaden und Leistungsfähigkeit'.
+'Strafbarkeit' verlangt 'Vorsatz'.
+'Strafbarkeit' erfordert Antrag 'durch verletzte Person'.
+'Vorsatz' besteht aus 'Wissen und Wollen oder Inkaufnahme'.
+'Fahrlässigkeit' besteht aus 'pflichtwidriger Unvorsichtigkeit'.
+'Unvorsichtigkeit' richtet sich nach 'Umständen und persönlichen Verhältnissen'.
+'Irrtum über Sachverhalt' führt zu 'Beurteilung nach vorgestelltem Sachverhalt'.
+'vermeidbarer Irrtum' führt zu 'Strafbarkeit wegen Fahrlässigkeit'.
+'Handeln nach Gesetz' ist 'rechtmässig'.
+'Angegriffener oder Dritter' ist berechtigt 'Abwehr angemessen zum Angriff'.
+'Überschreitung der Notwehrgrenzen' führt zu 'Strafmilderung'.
+'Strafmilderung' hebt auf 'Bindung an Mindeststrafe'.
+'Strafmilderung' ermöglicht 'abweichende Strafart bei gesetzlichem Rahmen'.
+'Notwehr in Aufregung oder Bestürzung' führt zu 'fehlender Schuld'.
+'Rettung aus Gefahr' ist rechtmässig bei 'Wahrung höherwertiger Interessen'.
+'Rettungstat bei Zumutbarkeit' wird bestraft mit 'milderer Strafe'.
+'Rettungstat bei Unzumutbarkeit' führt zu 'fehlender Schuld'.
+'fehlende Einsichtsfähigkeit' führt zu 'Straflosigkeit'.
+'verminderte Einsichtsfähigkeit' führt zu 'Strafmilderung'.
+'Tat trotz voraussehbarer Schuldunfähigkeit' macht unanwendbar 'Absätze 1–3'.
+'schuldunfähiger Täter' ist unterworfen 'Massnahmen nach Art. 59–61, 63, 64, 67, 67b, 67e'.
+'Zweifel an Schuldfähigkeit' erfordert 'Begutachtung durch Sachverständigen'.
+'unvermeidbarer Verbotsirrtum' führt zu 'fehlender Schuld'.
+'vermeidbarer Verbotsirrtum' führt zu 'Strafmilderung'.
+'fehlgeschlagener Versuch' führt zu 'Strafmilderung'.
+'untauglicher Versuch aus grobem Unverstand' führt zu 'Straflosigkeit'.
+'Rücktritt aus eigenem Antrieb' führt zu 'Strafmilderung oder Strafverzicht'.
+'Beitrag zur Verhinderung durch Mittäter' führt zu 'Strafmilderung oder Strafverzicht'.
+'hypothetische Verhinderung bei Rücktritt' führt zu 'Strafmilderung oder Strafverzicht'.
+'ernsthafte Verhinderungsbemühung' führt zu 'Strafmilderung oder Strafverzicht'.
+'Anstifter' wird beurteilt nach 'Strafandrohung für Haupttäter'.
+'Versuchte Anstiftung zu Verbrechen' ist strafbar als 'Versuch des Verbrechens'.
+'Gehilfe' wird bestraft mit 'milderer Strafe'.
+'Teilnehmer ohne Pflicht' wird bestraft mit 'milderer Strafe'.
+'besondere persönliche Umstände' werden berücksichtigt bei 'betroffener Person'.
+'Autor' ist strafbar bei 'veröffentlichter Tat im Medium'.
+'nicht ermittelbarer Autor' führt zu 'Strafbarkeit des Redaktors'.
+'fehlender Redaktor' führt zu 'Strafbarkeit der verantwortlichen Person'.
+'Veröffentlichung gegen Willen des Autors' führt zu 'Strafbarkeit des Redaktors oder Verantwortlichen'.
+'Berichterstattung über öffentliche Verhandlungen' ist 'straflos'.
+'Zeugnisverweigerung durch Medienschaffende' führt zu 'keine Strafe oder Zwangsmassnahmen'.
+'Zeugnis zur Rettung vor Gefahr' ist zulässig bei 'Gefahr für Leib und Leben'.
+'Zeugnis zur Aufklärung schwerer Straftaten' ist zulässig bei 'schweres Verbrechen'.
+'juristische Pflicht' wird zugerechnet an 'Organ oder tatsächlicher Leiter'.
+'juristische Pflicht' wird zugerechnet an 'Gesellschafter oder Mitarbeiter mit Entscheidungsbefugnis'.
+'gesetzlicher Vertreter' ist berechtigt zu 'Strafantrag bei Handlungsunfähigkeit'.
+'Erwachsenenschutzbehörde' ist berechtigt zu 'Strafantrag bei umfassender Beistandschaft'.
+'urteilsfähige Minderjährige' ist berechtigt zu 'Strafantrag'.
+'Strafantrag' kann zurückgezogen werden bis 'Urteil der zweiten Instanz'.
+'Angehörige' ist berechtigt zu 'Strafantrag bei Tod der verletzten Person'.
+'Angehörige' bestehen aus 'Ehepartner, Partner, Verwandte, Geschwister, Adoptivverhältnisse'.
+'Verzicht auf Antrag' führt zu 'endgültiger Ausschluss des Antragsrechts'.
+'Antragsrecht' ist verjährt nach '3 Monaten ab Kenntnis des Täters'.
+'Strafantrag gegen Beteiligten' führt zu 'Verfolgung aller Beteiligten'.
+'zurückgezogener Antrag' kann nicht 'erneut gestellt werden'.
+'Rückzug gegenüber einem Beschuldigten' gilt für 'alle Beschuldigten'.
+'Einspruch eines Beschuldigten' macht unwirksam 'Rückzug gegenüber ihm'.
+'Geldstrafe' besteht aus '3–180 Tagessätzen'.
+'Zahl der Tagessätze' richtet sich nach 'Verschulden'.
+'Verschulden' richtet sich nach 'Schwere, Verwerflichkeit, Beweggründe, Ziele, Vermeidbarkeit'.
+'Tagessatz' richtet sich nach 'persönliche und wirtschaftliche Verhältnisse'.
+'Tagessatz' beträgt 'mind. 30 bis max. 3000 Franken'.
+'Tagessatz' kann betragen 'mind. 10 Franken bei Ausnahme'.
+'Behörden' geben 'Auskünfte zur Tagessatzbestimmung'.
+'Tagessatz und Anzahl' wird festgehalten in 'Urteil'.
+'Vollzugsbehörde' setzt voraus 'Einsatz technischer Geräte zur Standortüberwachung'.
+'Vollzugsbehörde' richtet sich nach 'Bericht der Anstaltsleitung und Anhörung'.
+'Vollzugsbehörde' erfordert Antrag 'Verlängerung Tätigkeitsverbot bis 5 Jahre'.
+'Vollzugsbehörde' erfordert Antrag 'Verlängerung des Kontakt- und Rayonverbots um bis zu 5 Jahre'.
+'Vollzugsbehörde' erfordert Antrag 'Erweiterung oder Anordnung eines Verbots'.
+'Vollzugsbehörde' bestimmt 'Zahlungsfrist 1–6 Monate'.
+'Vollzugsbehörde' bestimmt 'Frist zur Ableistung der gemeinnützigen Arbeit'.
+'Vollzugsbehörde' kann anordnen 'Ratenzahlung'.
+'Vollzugsbehörde' kann verlängern 'Zahlungsfristen auf Gesuch'.
+'Vollzugsbehörde' ermöglicht 'Bewährungshilfe für gesamte Verbotsdauer'.
+'Vollzugsbehörde' verfügt 'Weisungen für bedingt Entlassenen'.
+'Vollzugsbehörde' ordnet an 'Bewährungshilfe während Probezeit'.
+'Vollzugsbehörde' entscheidet 'über Informationsgesuch nach Anhörung des Verurteilten'.
+'Verdacht auf Entziehung' führt zu 'sofortige Zahlung oder Sicherheitsleistung'.
+'nicht fristgerechte Zahlung' führt zu 'Betreibung bei Erfolgsaussicht'.
+'nicht bezahlte Geldstrafe' führt zu 'Ersatzfreiheitsstrafe'.
+'Ersatzfreiheitsstrafe' wird aufgehoben bei 'nachträglicher Zahlung der Busse'.
+'ein Tagessatz' entspricht 'ein Tag Freiheitsstrafe'.
+'nachträgliche Zahlung' hebt auf 'Ersatzfreiheitsstrafe'.
+'Freiheitsstrafe' dauert mindestens '3 Tage'.
+'Freiheitsstrafe' dauert höchstens '20 Jahre'.
+'Freiheitsstrafe' dauert 'lebenslänglich bei gesetzlicher Bestimmung'.
+'Freiheitsstrafe' geht vor 'Verwahrung'.
+'Freiheitsstrafe' wird vollzogen in 'geschlossener oder offener Strafanstalt'.
+'Freiheitsstrafe' wird vollzogen in 'Arbeitsexternat bei erfüllten Voraussetzungen'.
+'Freiheitsstrafe statt Geldstrafe' ist zulässig bei 'Rückfallgefahr oder Vollzugsproblematik'.
+'Strafvollzug ≤ 2 Jahre' wird aufgeschoben bei 'fehlender Notwendigkeit für Rückfallprävention'.
+'Vorstrafe > 6 Monate' macht Aufschub zulässig bei 'besonders günstigen Umständen'.
+'verweigerte Schadenbehebung' führt zu 'Verweigerung des Aufschubs'.
+'bedingte Strafe' kann verbunden werden mit 'Busse nach Art. 106'.
+'Freiheitsstrafe 1–3 Jahre' kann aufgeschoben werden 'teilweise bei schuldangemessener Sanktionierung'.
+'unbedingt vollziehbarer Teil' darf nicht überschreiten 'Hälfte der Strafe'.
+'Teilstrafe' muss betragen 'mindestens 6 Monate'.
+'unbedingt vollziehbare Teilstrafe' ist nicht unterworfen 'bedingte Entlassung'.
+'bedingte Entlassung' ist zulässig bei 'guter Führung und keiner Rückfallgefahr'.
+'bedingte Entlassung' führt zu 'Probezeit 2–5 Jahre'.
+'bedingte Entlassung' kann verbunden werden mit 'ambulante Behandlung, Bewährungshilfe, Weisungen'.
+'bedingte Entlassung' ist ausgeschlossen bei 'Verwahrung'.
+'bedingte Entlassung' wird neu geprüft bei 'jährlicher Ablehnung'.
+'aufgeschobene Strafe' führt zu 'Probezeit 2–5 Jahre'.
+'Probezeit' richtet sich nach 'Strafrest (min. 1 Jahr, max. 5 Jahre)'.
+'Probezeit' beginnt mit 'Eröffnung des vollstreckbaren Urteils'.
+'Probezeit' kann begleitet werden durch 'Bewährungshilfe und Weisungen'.
+'Bewährung bis Ablauf der Probezeit' führt zu 'Verzicht auf Vollzug der Strafe'.
+'neue Straftat während Probezeit' führt zu 'Widerruf der bedingten Strafe'.
+'neue Straftat während Probezeit' führt zu 'Rückversetzung oder neue Massnahme'.
+'Strafen gleicher Art' führt zu 'Gesamtstrafe nach Art. 49'.
+'keine Wiederholungsgefahr' führt zu 'Verzicht auf Widerruf'.
+'Verzicht auf Widerruf' ermöglicht 'Verwarnung oder Verlängerung der Probezeit'.
+'verlängerte Probezeit' beginnt mit 'Tag der Anordnung'.
+'Gericht des neuen Delikts' entscheidet über 'Widerruf'.
+'Missachtung der Bewährungshilfe' führt zu 'Anwendung von Art. 95 Abs. 3–5'.
+'Ablauf 3 Jahre nach Probezeit' macht unzulässig 'Widerruf'.
+'Strafe' richtet sich nach 'Verschulden des Täters'.
+'Strafe' richtet sich nach 'Verhältnissen des Täters und Verschulden'.
+'Strafe' ist verjährt nach '30/25/20/15/5 Jahren je nach Strafhöhe'.
+'Strafe' ist nicht anrechenbar auf 'Verweisungsdauer'.
+'Strafzumessung' berücksichtigt 'Vorleben, persönliche Verhältnisse, Wirkung der Strafe'.
+'achtenswerte Beweggründe' führen zu 'Strafmilderung'.
+'schwere Bedrängnis' führt zu 'Strafmilderung'.
+'Drohung oder Abhängigkeit' führt zu 'Strafmilderung'.
+'Verhalten der verletzten Person' führt zu 'Strafmilderung bei Versuchung'.
+'Gemütsbewegung oder seelische Belastung' führt zu 'Strafmilderung'.
+'aufrichtige Reue' führt zu 'Strafmilderung'.
+'verringertes Strafbedürfnis bei Zeitablauf' führt zu 'Strafmilderung'.
+'mehrere gleichartige Taten' führen zu 'Strafe der schwersten Tat mit Erhöhung'.
+'Gesamtstrafe' wird beurteilt nach 'Regeln der bedingten Entlassung'.
+'Gesamtstrafe' darf nicht überschreiten '1,5-faches der Höchststrafe'.
+'Tat vor früherer Verurteilung' führt zu 'Zusatzstrafe wie bei gleichzeitiger Beurteilung'.
+'Taten vor 18. Lebensjahr' dürfen nicht stärker gewichtet werden als 'Einzeltat'.
+'Urteilsbegründung' enthält 'zumessungsrelevante Umstände und Gewichtung'.
+'Untersuchungshaft' ist unterworfen 'jede Haft im Strafverfahren'.
+'Untersuchungshaft' wird angerechnet auf 'Strafe'.
+'Untersuchungshaft' wird angerechnet auf 'Strafrest'.
+'ein Tag Haft' entspricht 'ein Tagessatz Geldstrafe'.
+'geringfügige Schuld und Tatfolgen' führen zu 'Verzicht auf Strafverfolgung oder Bestrafung'.
+'Wiedergutmachung durch Täter' führt zu 'Verzicht auf Strafverfolgung oder Bestrafung'.
+'geringes öffentliches und privates Interesse' ist Voraussetzung für 'Strafbefehl nach Wiedergutmachung'.
+'Geständnis des Täters' ist Voraussetzung für 'Strafbefehl nach Wiedergutmachung'.
+'bedingte Strafe oder Busse' ist Voraussetzung für 'Strafbefehl nach Wiedergutmachung'.
+'schwere Folgen der Tat für Täter' führen zu 'Verzicht auf Strafverfolgung oder Bestrafung'.
+'Strafbefehlsvoraussetzungen' führen zu 'Verzicht auf Widerruf oder Rückversetzung'.
+'Kantone' bestimmen 'zuständige Behörden nach Art. 52–54'.
+'Kantone' vollziehen 'Urteile der kantonalen und Bundesstrafbehörden'.
+'Kantone' gewährleisten 'einheitlichen Vollzug strafrechtlicher Sanktionen'.
+'Kantone' verfügen über 'Geldstrafen, Bussen und Einziehungen'.
+'Kantone' sind zuständig für 'gemeinnützige Arbeit'.
+'Kantone' richten ein 'Bewährungshilfe'.
+'Kantone' errichten 'Anstalten für offenen und geschlossenen Vollzug'.
+'Kantone' errichten 'Abteilungen für besondere Gefangenengruppen'.
+'Kantone' errichten 'Einrichtungen für Massnahmenvollzug'.
+'Kantone' fördern 'Aus- und Weiterbildung des Personals'.
+'Kantone' können vereinbaren 'gemeinsame Nutzung von Anstalten'.
+'Kantone' arbeiten zusammen bei 'Zuteilung der Gefangenen'.
+'Kantone' können bewilligen 'privat geführte Vollzugsanstalten'.
+'Kantone' erlassen 'Vorschriften zur Kostenbeteiligung'.
+'Kantone' gestatten 'Wiederaufnahme bei neuen Tatsachen zugunsten Verurteilter'.
+'Kantone' teilen mit 'Einführungsbestimmungen zum StGB'.
+'Sistierung des Verfahrens' ist zulässig bei 'häuslicher Gewalt und Stabilisierung des Opfers'.
+'Opfer oder Vertreter' verlangt 'Sistierung'.
+'Sistierung' darf nicht erfolgen bei 'Vorverurteilung wegen Gewalt oder sexueller Delikte'.
+'Sistierung' ist befristet auf 'sechs Monate'.
+'Verfahren' wird wieder aufgenommen bei 'Antrag oder fehlender Stabilisierung'.
+'vor Ablauf der Sistierung' erfolgt 'Beurteilung durch Staatsanwaltschaft oder Gericht'.
+'Stabilisierung der Situation' führt zu 'Einstellung des Verfahrens'.
+'Massnahme' setzt voraus 'Verhältnismässigkeit des Eingriffs'.
+'Massnahme' ist anzuordnen bei 'Gefahr weiterer Straftaten'.
+'Massnahme' verfolgt 'Förderung selbstverantwortlichen Lebens'.
+'Massnahme' endet mit '30. Altersjahr'.
+'Massnahme' wird aufgehoben bei 'Aussichtslosigkeit, Höchstdauer ohne Entlassung, fehlende Einrichtung'.
+'Gefahr weiterer Straftaten' führt zu 'Tätigkeitsverbot 6 Monate bis 5 Jahre'.
+'Gutachten' äussert sich über 'Behandlungsbedarf, Rückfallgefahr, Vollzugsmöglichkeit'.
+'lebenslange Verwahrung' erfordert 'zwei unabhängige Gutachten'.
+'geeignete Einrichtung' ist Voraussetzung für 'Massnahme'.
+'fehlende Voraussetzungen' führt zu 'Aufhebung der Massnahme'.
+'geeignetste und mildeste Massnahme' ist anzuordnen bei 'gleichwertiger Eignung'.
+'mehrere notwendige Massnahmen' können 'zusammen angeordnet werden'.
+'Strafe und Massnahme' werden angeordnet bei 'Erfüllung beider Voraussetzungen'.
+'Massnahmenvollzug' geht vor 'Freiheitsstrafe'.
+'Rückversetzung in Massnahme' geht vor 'Gesamtstrafe'.
+'Freiheitsentzug durch Massnahme' wird angerechnet auf 'Strafe'.
+'therapeutische Einrichtungen' sind getrennt von 'Strafvollzug'.
+'Strafvollzug' besteht aus 'Betreuung, Verhältnisse, Schutz und Sozialisierung'.
+'Strafvollzug' richtet sich nach 'Förderung sozialen Verhaltens'.
+'Strafvollzug' gilt für 'geschlechtsspezifische Bedürfnisse'.
+'psychische Störung' führt zu 'stationärer Behandlung bei Tatbezug'.
+'stationäre Behandlung' dauert höchstens 'fünf Jahre regulär'.
+'stationäre Behandlung' erfolgt in 'psychiatrischer oder Massnahmevollzugseinrichtung'.
+'stationäre Behandlung' ist zu prüfen vor 'Antritt der Verwahrung'.
+'Flucht- oder Rückfallgefahr' führt zu 'Behandlung in geschlossener Einrichtung'.
+'Flucht- oder Rückfallgefahr' führt zu 'Einweisung in geschlossene Anstalt oder Abteilung'.
+'Verlängerung um fünf Jahre' ist zulässig bei 'weiterer Rückfallgefahr'.
+'Behandlung in Strafanstalt' ist zulässig bei 'therapeutischer Versorgung'.
+'Abhängigkeit' führt zu 'stationärer Behandlung bei Tatbezug'.
+'stationäre Suchtbehandlung' dauert höchstens 'drei Jahre regulär'.
+'stationäre Suchtbehandlung' erfolgt in 'spezialisierter Einrichtung oder Klinik'.
+'Verlängerung um ein Jahr' ist zulässig bei 'weiterer Rückfallgefahr'.
+'maximale Gesamtdauer' beträgt 'sechs Jahre'.
+'Persönlichkeitsstörung vor 25' führt zu 'Einweisung in Einrichtung für junge Erwachsene'.
+'Einrichtung für junge Erwachsene' ist getrennt von 'übrigen Anstalten'.
+'Freiheitsentzug' dauert höchstens 'vier Jahre regulär'.
+'Gesamtdauer mit Rückversetzung' beträgt 'höchstens sechs Jahre'.
+'Tat vor 18. Altersjahr' ermöglicht 'Vollzug in Jugendanstalt'.
+'stationäre Massnahme' endet mit 'bedingter Entlassung bei geeignetem Zustand'.
+'stationäre Massnahme' kann ersetzt werden durch 'bessere therapeutische Massnahme'.
+'stationäre Massnahme' kann angeordnet werden bei 'Erfüllung der Voraussetzungen vor oder während Vollzug'.
+'bedingte Entlassung aus Art. 59' führt zu 'Probezeit 1–5 Jahre'.
+'bedingte Entlassung aus Art. 60 oder 61' führt zu 'Probezeit 1–3 Jahre'.
+'notwendige Fortführung' führt zu 'Verlängerung der Probezeit'.
+'notwendige Fortführung' führt zu 'Verlängerung der Probezeit um 2–5 Jahre'.
+'Verlängerung bei Art. 59' beträgt '1–5 Jahre'.
+'Verlängerung bei Art. 60 oder 61' beträgt '1–3 Jahre'.
+'maximale Probezeit bei Art. 60 oder 61' beträgt 'sechs Jahre'.
+'Tat nach Art. 64 Abs. 1' ermöglicht 'unbegrenzte Verlängerung der Probezeit'.
+'Rückversetzung' ist verjährt nach '3 Jahren seit Ablauf der Probezeit'.
+'Rückversetzung' dauert bei Art. 59 'höchstens fünf Jahre'.
+'Rückversetzung' dauert bei Art. 60 oder 61 'höchstens zwei Jahre'.
+'Erwartung neuer Tat nach Art. 64' führt zu 'Rückversetzung durch ursprüngliches Gericht'.
+'Verzicht auf Rückversetzung' ermöglicht 'Verwarnung, ambulante Behandlung, Weisungen, Verlängerung'.
+'Verlängerung bei Verzicht' beträgt bei Art. 59 '1–5 Jahre'.
+'Verlängerung bei Verzicht' beträgt bei Art. 60 oder 61 '1–3 Jahre'.
+'Missachtung von Weisungen' führt zu 'Anwendung von Art. 95 Abs. 3–5'.
+'Missachtung von Weisungen' wird bestraft mit 'Busse'.
+'Bewährung bis Probezeitende' führt zu 'endgültiger Entlassung'.
+'Bewährung bis Probezeitende' führt zu 'endgültige Entlassung'.
+'Höchstdauer erreicht bei Art. 60 oder 61' führt zu 'endgültiger Entlassung bei Voraussetzungen'.
+'kürzerer Freiheitsentzug als Reststrafe' führt zu 'kein Vollzug der Reststrafe'.
+'kürzerer Freiheitsentzug' führt zu 'Vollzug der Reststrafe'.
+'Reststrafe' wird aufgeschoben bei 'nachträglicher Massnahme'.
+'Reststrafe' kann aufgeschoben werden bei 'Voraussetzungen der bedingten Entlassung'.
+'Massnahmeaufhebung' ermöglicht 'Anordnung neuer Massnahme bei Rückfallgefahr'.
+'Rückfallgefahr bei Art. 64 Tat' führt zu 'Anordnung der Verwahrung'.
+'Anzeigepflicht' besteht gegenüber 'Erwachsenenschutzbehörde bei Schutzbedarf'.
+'zuständige Behörde' kann anordnen 'vorübergehende stationäre Behandlung'.
+'zuständige Behörde' prüft 'Entlassung oder Aufhebung mindestens jährlich'.
+'zuständige Behörde' prüft 'Behandelbarkeit bei lebenslänglicher Verwahrung'.
+'zuständige Behörde' prüft jährlich 'Fortführung oder Aufhebung ambulanter Behandlung'.
+'zuständige Behörde' prüft jährlich 'Möglichkeit der bedingten Entlassung'.
+'Eingewiesener' wird angehört bei 'Entlassungsprüfung'.
+'Tat nach Art. 64' führt zu 'Entscheid gestützt auf Gutachten und Kommission'.
+'Kommission' besteht aus 'Vertretern von Strafverfolgung, Vollzug, Psychiatrie'.
+'Sachverständige und Psychiater' dürfen nicht 'Täter betreut haben'.
+'psychische Störung oder Abhängigkeit' führt zu 'ambulante Behandlung bei Tatbezug'.
+'vorübergehende stationäre Behandlung' dauert höchstens 'zwei Monate'.
+'ambulante Behandlung' dauert höchstens 'fünf Jahre'.
+'ambulante Behandlung' kann verlängert werden um '1–5 Jahre bei Gefahr weiterer Taten'.
+'amb. Behandlung' wird aufgehoben bei 'Erfolg, Aussichtslosigkeit oder Höchstdauer'.
+'neue Straftat während amb. Behandlung' führt zu 'Aufhebung durch zuständiges Gericht'.
+'erfolgreiche ambulante Behandlung' führt zu 'kein Vollzug der aufgeschobenen Freiheitsstrafe'.
+'aussichtslose oder erfolglose Behandlung' führt zu 'Vollzug der aufgeschobenen Freiheitsstrafe'.
+'Gefahr durch ambulante Behandlung' führt zu 'Vollzug der Strafe mit paralleler Behandlung'.
+'Reststrafe mit Entlassungsvoraussetzungen' führt zu 'Aufschub des Vollzugs'.
+'Tat mit schwerer Beeinträchtigung' führt zu 'Verwahrung bei Rückfallgefahr'.
+'anhaltende psychische Störung' führt zu 'Verwahrung statt Massnahme bei Aussichtslosigkeit'.
+'Tat mit besonders schwerer Beeinträchtigung' führt zu 'lebenslängliche Verwahrung bei hoher Rückfallgefahr'.
+'nicht therapierbarer Täter' führt zu 'lebenslängliche Verwahrung'.
+'Verwahrung' wird vollzogen in 'Massnahmevollzugseinrichtung oder Strafanstalt'.
+'Bewährung während Freiheitsstrafe' führt zu 'bedingte Entlassung frühestens nach 2/3 oder 15 Jahren'.
+'öffentliche Sicherheit' ist zu gewährleisten bei 'Verwahrung'.
+'psychiatrische Betreuung' ist erforderlich bei 'Verwahrung bei Bedarf'.
+'Verwahrter' wird bedingt entlassen bei 'Erwartung von Bewährung in Freiheit'.
+'erwartete Rückfälligkeit' führt zu 'Rückversetzung durch Gericht'.
+'erstmalige Prüfung' erfolgt nach 'zwei Jahren Verwahrung'.
+'Entscheid über Prüfung' stützt sich auf 'Bericht, Gutachten, Kommission, Anhörung'.
+'Entscheid' erfordert 'zwei unabhängige Sachverständige'.
+'Entscheid' stützt sich auf 'Bericht der Fachkommission'.
+'Behandlung' erfolgt in 'geschlossener Einrichtung'.
+'wirksame Behandlung' führt zu 'Aufhebung der Verwahrung und Anordnung stationärer Massnahme'.
+'hohes Alter oder Krankheit' ermöglicht 'bedingte Entlassung bei Gefahrlosigkeit'.
+'Prüfung und Behandlung' gelten auch während 'Freiheitsstrafe vor Verwahrung'.
+'Aufhebung der Verwahrung' frühestens nach '2/3 oder 15 Jahren Freiheitsstrafe'.
+'zuständig' ist 'Gericht der ursprünglichen Verurteilung'.
+'neue Tatsachen im Vollzug' führen zu 'nachträglicher Verwahrung bei Unkenntnis bei Verurteilung'.
+'Verfahren bei nachträglicher Verwahrung' richtet sich nach 'Revisionsregeln'.
+'Gefahr der Tatwiederholung oder Drohung' führt zu 'Versprechen oder Sicherheitsleistung'.
+'Verweigerung des Versprechens' führt zu 'Sicherheitshaft bis 2 Monate'.
+'Tatbegehung nach Sicherheitsleistung' führt zu 'Verfall der Sicherheit'.
+'Keine Tatbegehung nach Sicherheitsleistung' führt zu 'Rückgabe der Sicherheit'.
+'Ausländer mit bestimmter Verurteilung' wird verwiesen für '5–15 Jahre'.
+'schwerer persönlicher Härtefall' ermöglicht 'Ausnahme von Landesverweisung'.
+'besondere Situation (Geburt oder Aufwachsen in Schweiz)' wird berücksichtigt bei 'Ausnahmeentscheid'.
+'Notwehr oder Notstand' führt zu 'Ausnahme von Landesverweisung'.
+'Ausländer mit Verurteilung nicht nach Art. 66a' kann verwiesen werden für '3–15 Jahre'.
+'Landesverweisung' gilt ab 'Rechtskraft des Urteils'.
+'Landesverweisung' wird vollzogen bei 'Entlassung ohne Reststrafe oder neue Massnahme'.
+'Strafen und Massnahmen' sind zu vollziehen vor 'Landesverweisung'.
+'Überstellung ins Heimatland' gilt als 'Vollzug der Landesverweisung'.
+'Dauer der Landesverweisung' beginnt mit 'Verlassen der Schweiz'.
+'obligatorische Landesverweisung' kann aufgeschoben werden bei 'Gefahr für anerkannte Flüchtlinge'.
+'obligatorische Landesverweisung' kann aufgeschoben werden bei 'Verstoß gegen zwingendes Völkerrecht'.
+'kantonale Behörde' geht aus von 'Sicherheit sicherer Drittstaaten gemäß Bundesrat'.
+'Verurteilung' ist unterworfen 'Freiheitsstrafe > 6 Monate'.
+'Straftat gegen Minderjährige oder besonders schutzbedürftige Person' führt zu 'Tätigkeitsverbot 1 bis 10 Jahre'.
+'Gefahr weiterer vergleichbarer Straftaten' führt zu 'Verbot nach Abs. 2 lebenslänglich'.
+'Verurteilung wegen Sexualstraftat an Minderjährigen' führt zu 'lebenslanges Tätigkeitsverbot mit Kontakt zu Minderjährigen'.
+'Verurteilung wegen Sexualstraftat an besonders schutzbedürftigen Erwachsenen' führt zu 'lebenslanges Tätigkeitsverbot mit Kontakt zu diesen Personen'.
+'besonders leichter Fall' ist zulässig bei 'Absehen von Tätigkeitsverbot'.
+'besonders leichter Fall' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verurteilung wegen schwerer Sexualdelikte' verlangt 'Tätigkeitsverbot'.
+'Tätigkeitsverbot' ist unterworfen 'Art. 67 StGB, Art. 50 MStG, Art. 16a JStG'.
+'Tätigkeitsverbot' gilt für 'selbstständige oder abhängige Ausübung durch Täter'.
+'Tätigkeitsverbot' gilt für 'Funktion im Handelsregister'.
+'Tätigkeitsverbot' ermöglicht 'Anordnung von Bewährungshilfe'.
+'pädophile Störung' verlangt 'Tätigkeitsverbot'.
+'mehrere Straftaten im selben Verfahren' setzt voraus 'Aufteilung der Strafe auf einzelne Delikte'.
+'mehrere einschlägige Straftaten' führen zu 'mehrere Tätigkeitsverbote'.
+'berufliche Tätigkeit' gilt für 'Haupt- oder Nebenberuf, Gewerbe, Handelsgeschäft'.
+'organisierte ausserberufliche Tätigkeit' gilt für 'Vereins- oder Organisationskontext ohne Erwerbszweck'.
+'Gefahr des Missbrauchs trotz Kontrolle' führt zu 'vollständiges Tätigkeitsverbot'.
+'Verbot nach Art. 67 Abs. 3 und 4' umfasst 'gesamte Tätigkeit'.
+'Tätigkeit mit Kontakt' gilt für 'direkten Kontakt zu Minderjährigen oder schutzbedürftigen Personen'.
+'Kontakt-Tätigkeit' besteht aus 'Lehren, Erziehung, Betreuung, Pflege, Behandlung, Transport, Verkauf etc.'.
+'Einrichtungstätigkeit' gilt für 'Dienstleistungen mit Kontakt zu Schutzbedürftigen'.
+'Kontaktvermeidung' ist zulässig bei 'räumlich oder zeitlich sichergestelltem Ausschluss'.
+'besondere Schutzbedürftigkeit' besteht aus 'Alter, Krankheit oder Beeinträchtigung mit Hilfsbedarf'.
+'Verbrechen oder Vergehen gegen bestimmte Personen' führt zu 'Kontakt- und Rayonverbot bis 5 Jahre'.
+'Gefahr weiterer Straftaten bei Kontakt' führt zu 'Kontakt- und Rayonverbot'.
+'Kontakt- und Rayonverbot' umfasst 'Verbot direkter oder indirekter Kontaktaufnahme'.
+'Kontakt- und Rayonverbot' umfasst 'Verbot der Annäherung an bestimmte Personen oder deren Umgebung'.
+'Kontakt- und Rayonverbot' umfasst 'Verbot des Aufenthalts an bestimmten Orten'.
+'Verlängerung' ist zulässig bei 'Gefahr weiterer Straftaten gegen Schutzbedürftige'.
+'Verbot' tritt in Kraft 'mit Rechtskraft des Urteils'.
+'Vollzug Freiheitsstrafe oder Massnahme' ist subsidiär zu 'Dauer des Verbots'.
+'nicht bestandene Probezeit' führt zu 'Verzögerung der Verbotsdauer bis zur Entlassung'.
+'bestandene Probezeit' ermöglicht 'Entscheidung über Einschränkung oder Aufhebung'.
+'Verbot nach Art. 67 Abs. 1 oder 67b' ist zulässig bei '2 Jahre Vollzug'.
+'lebenslängliches Verbot nach Art. 67 Abs. 2bis' ist zulässig bei '10 Jahre Vollzug'.
+'Gefahr und Schadenersatz' führt zu 'Aufhebung des Verbots'.
+'Verbot nach Art. 67 Abs. 3 oder 4' wird aufgehoben bei '[nicht möglich]'.
+'Missachtung des Verbots' verlangt 'Bericht an Gericht oder Vollzugsbehörde'.
+'Gericht oder Vollzugsbehörde' ermöglicht 'Aufhebung oder Neuordnung der Bewährungshilfe'.
+'Verstoß gegen Bewährungshilfe in Probezeit' wird beurteilt nach 'Art. 95 Abs. 4 und 5'.
+'Verstoß gegen Verbot in Probezeit' wird beurteilt nach 'Art. 294 und Widerrufsregelungen'.
+'neue Erkenntnisse im Vollzug' führt zu 'Erweiterung oder Anordnung eines zusätzlichen Verbots'.
+'neue Erkenntnisse im Straf- oder Massnahmenvollzug' führt zu 'nachträgliches Verbot nach Art. 67 oder 67b'.
+'Verwendung eines Motorfahrzeugs zur Straftat' führt zu 'Ausweisentzug 1 bis 5 Jahre'.
+'Wiederholungsgefahr' verlangt 'Ausweisentzug neben Strafe oder Massnahme'.
+'öffentliches Interesse' verlangt 'Veröffentlichung Strafurteil auf Kosten des Verurteilten'.
+'öffentliches Interesse' verlangt 'Veröffentlichung Freispruch auf Staats- oder Anzeigerkosten'.
+'Verletzter oder Freigesprochener' erfordert Antrag 'Veröffentlichung im eigenen Interesse'.
+'Gegenstände zur Straftat' werden beurteilt nach 'Gefahr für Sicherheit, Sittlichkeit oder Ordnung'.
+'Vermögenswerte durch Straftat' werden beurteilt nach 'Verwendung zur Veranlassung oder Belohnung'.
+'rechtmässiger Zustand' setzt voraus 'Rückgabe an Verletzten'.
+'Dritter in Unkenntnis' ist zulässig bei 'gleichwertiger Gegenleistung oder Härtefall'.
+'Einziehung' führt zu 'Unschädlichmachung oder Vernichtung'.
+'Einziehung' führt zu 'Unbrauchbarmachung oder Vernichtung'.
+'Einziehung' verlangt 'amtliche Bekanntmachung'.
+'Einziehung' ist verjährt nach '7 Jahren oder längerer Verjährungsfrist der Straftat'.
+'Ansprüche Dritter' erlöschen '5 Jahre nach amtlicher Bekanntmachung'.
+'Umfang der Vermögenswerte' wird beurteilt nach 'gerichtlicher Schätzung bei Aufwand'.
+'nicht mehr vorhandene Vermögenswerte' führen zu 'Ersatzforderung des Staates'.
+'Ersatzforderung gegenüber Dritten' ist ausgeschlossen bei 'Art. 70 Abs. 2'.
+'Ersatzforderung' wird aufgehoben bei 'Uneinbringlichkeit oder Reintegrationshindernis'.
+'Vermögenswerte unter Kontrolle krimineller Organisation' werden beurteilt nach 'Vermutung der Verfügungsmacht'.
+'nicht ersetzter Schaden' verlangt 'Zuweisung von Vermögenswerten an Geschädigten'.
+'Zuweisung an Geschädigten' setzt voraus 'Abtretung der Forderung an den Staat'.
+'Kanton' setzt voraus 'Disziplinarrecht für Vollzug'.
+'Kanton' verlangt 'einfaches Verfahren bei späterer Entscheidung'.
+'Kanton' stellt sicher 'freiwillige soziale Betreuung während Verfahren und Vollzug'.
+'Kanton' bezeichnet 'zugelassene Praxen und Spitäler'.
+'Kanton' ist befugt 'Übertretungsstrafrecht bei fehlender Bundesregelung'.
+'Kanton' ist befugt 'Sanktionen gegen kantonales Verwaltungsrecht'.
+'Gefangener' ist zulässig bei 'Beschäftigung durch privaten Arbeitgeber mit Zustimmung'.
+'Gefangener' ist unterworfen 'Achtung der Menschenwürde'.
+'Gefangener' ist unterworfen 'Arbeitspflicht'.
+'Gefangener' verlangt 'aktive Mitwirkung bei Sozialisierung und Entlassung'.
+'Gefangener' verbringt 'Arbeits-, Ruhe- und Freizeit in der Anstalt'.
+'Gefangener' arbeitet 'ausserhalb, verbringt Freizeit in Anstalt'.
+'Gefangener' arbeitet 'ausserhalb, verbringt Freizeit in der Anstalt'.
+'Gefangener' erhält 'Aus- und Weiterbildung bei Eignung'.
+'Gefangener' erhält 'leistungsabhängiges Arbeitsentgelt'.
+'Gefangener' hat Recht auf 'Besuche und Aussenkontakt'.
+'Gefangener' wird entlassen bei '2/3 der Strafe, min. 3 Monate, und positivem Verhalten'.
+'Rechte des Gefangenen' werden beschränkt bei 'Erfordernissen des Freiheitsentzugs und Zusammenlebens'.
+'Anstaltsordnung' verlangt 'Vollzugsplan mit Angaben zu Betreuung und Resozialisierung'.
+'weiteres Urteil bei Entlassung' führt zu 'Absehen vom Vollzug bei Reintegrationsrisiko'.
+'Kommission nach Art. 62d Abs. 2' beurteilt 'Gemeingefährlichkeit bei unklarer Einschätzung'.
+'Vollzugsöffnungen' bestehen aus 'Verlegung, Urlaub, Arbeitsexternat, Wohnexternat, bedingte Entlassung'.
+'Gemeingefährlichkeit' besteht aus 'Fluchtgefahr und schwere Beeinträchtigung der Integrität'.
+'Wechsel ins Arbeitsexternat' setzt voraus 'angemessene Dauer in offener Anstalt'.
+'Hausarbeit und Kinderbetreuung' gilt für 'Arbeit ausserhalb der Anstalt'.
+'Bewährung im Arbeitsexternat' führt zu 'Wohn- und Arbeitsexternat'.
+'Wohn- und Arbeitsexternat' ist zulässig bei 'positiver Prognose und keiner Fluchtgefahr'.
+'Gefangener im Wohn- und Arbeitsexternat' ist unterworfen 'Strafvollzugsbehörde'.
+'Freiheitsstrafe ≤ 12 Monate oder Reststrafe ≤ 6 Monate' wird vollzogen in 'Halbgefangenschaft bei Gesuch'.
+'Halbgefangenschaft' ist zulässig bei 'Betreuung im Untersuchungsgefängnis'.
+'Halbgefangenschaft' setzt voraus 'keine Flucht- oder Rückfallgefahr'.
+'Halbgefangenschaft' setzt voraus 'mind. 20 Std./Woche Arbeit, Ausbildung oder Beschäftigung'.
+'Nicht-Erfüllung der Bedingungen' führt zu 'Normalvollzug'.
+'Einzelhaft' ist zulässig bei 'Strafantritt und Einleitung des Vollzugs (max. 1 Woche)'.
+'Einzelhaft' ist zulässig bei 'Schutz des Gefangenen oder Dritter'.
+'Einzelhaft' ist zulässig bei 'Disziplinarsanktion'.
+'Einzelhaft' ist zulässig bei 'Verhinderung terroristischer Beeinflussung'.
+'Freiheitsstrafe ≤ 6 Monate oder Geldstrafe' wird vollzogen in 'gemeinnütziger Arbeit bei Gesuch'.
+'gemeinnützige Arbeit' wird beurteilt nach '4 Std. = 1 Tag Freiheits- oder Geldstrafe'.
+'gemeinnützige Arbeit' besteht aus 'unentgeltlicher Leistung'.
+'gemeinnützige Arbeit' gilt für 'soziale Einrichtungen oder hilfsbedürftige Personen'.
+'gemeinnützige Arbeit' ist ausgeschlossen bei 'Ersatzfreiheitsstrafe'.
+'Nichtleistung trotz Mahnung' führt zu 'Normalvollzug, Halbgefangenschaft oder Vollstreckung'.
+'Verurteilter' ersucht 'elektronische Überwachung bei bestimmten Strafarten'.
+'Verurteilter' beteiligt an 'Vollzugskosten durch Arbeit oder Einkommen'.
+'elektronische Überwachung' ist zulässig bei 'Freiheitsstrafe 20 Tage – 12 Monate'.
+'elektronische Überwachung' setzt voraus 'keine Flucht- oder Rückfallgefahr'.
+'elektronische Überwachung' setzt voraus 'dauerhafte Unterkunft'.
+'elektronische Überwachung' setzt voraus 'mind. 20 Std./Woche Beschäftigung'.
+'elektronische Überwachung' setzt voraus 'Zustimmung von Mitbewohnern'.
+'elektronische Überwachung' setzt voraus 'Zustimmung zum Vollzugsplan'.
+'Nicht-Erfüllung der Voraussetzungen' führt zu 'Abbruch der Überwachung oder Einschränkung'.
+'Vollzugsregeln' werden aufgehoben bei 'gesundheitlicher Notwendigkeit'.
+'Vollzugsregeln' werden aufgehoben bei 'Schwangerschaft oder Geburt'.
+'gemeinsame Unterbringung von Mutter und Kind' ist zulässig bei 'Kindesinteresse'.
+'Gefangener in externer Einrichtung' ist unterworfen 'Reglement der Einrichtung'.
+'Arbeit' richtet sich nach 'Fähigkeiten, Ausbildung und Neigungen'.
+'Arbeitsentgelt' besteht aus 'verfügbarem Teil und Rücklageanteil'.
+'Arbeitsentgelt' ist geschützt vor 'Pfändung, Arrest, Konkurs'.
+'Rücklage' richtet sich nach 'Verwendung nach Entlassung'.
+'Teilnahme an Weiterbildung' führt zu 'angemessene Vergütung'.
+'Kontakt zu nahestehenden Personen' wird erleichtert bei 'sozialer Nähe'.
+'Kontakt' wird beschränkt bei 'Ordnung oder Sicherheit der Anstalt'.
+'Besuchskontrolle' ist unzulässig bei 'Überwachung ohne Wissen'.
+'strafprozessuale Massnahmen' sind subsidiär zu 'Kontaktregeln im Strafvollzug'.
+'Personen mit besonderen Aufgaben' ist zulässig bei 'freier Kontakt im Rahmen der Anstaltsordnung'.
+'Verteidiger' hat Recht auf 'ungestörten Besuch und Briefwechsel'.
+'anwaltlicher Kontakt' wird aufgehoben bei 'Missbrauch durch Gefangenen'.
+'Kontakt mit Aufsichtsbehörden' wird aufgehoben bei 'keine Kontrolle zulässig'.
+'Urlaub' ist zulässig bei 'Pflege von Beziehungen oder Entlassungsvorbereitung'.
+'Urlaub' wird aufgehoben bei 'Fluchtgefahr oder Rückfallrisiko'.
+'lebenslänglich verwahrte Straftäter' wird aufgehoben bei 'Urlaub vor Verwahrung'.
+'Effekten und Unterkunft' werden beurteilt nach 'Sicherheit und Ordnung'.
+'Leibesvisitation' ist zulässig bei 'Verdacht auf versteckte Gegenstände'.
+'Leibesvisitation' setzt voraus 'gleicher Geschlechtsdurchführender'.
+'Leibesvisitation mit Entkleidung' ist zulässig bei 'Abwesenheit anderer Gefangener'.
+'Untersuchung im Körperinnern' ist zulässig bei 'medizinisches Personal'.
+'lebenslange Freiheitsstrafe' ist zulässig bei 'Entlassung nach 15 Jahren (Art. 86 Abs. 1)'.
+'lebenslange Freiheitsstrafe' ist zulässig bei 'Entlassung nach 10 Jahren (Art. 86 Abs. 4)'.
+'bedingt Entlassener' ist unterworfen 'Probezeit'.
+'Straftat nach Art. 64 Abs. 1' führt zu 'Verlängerung von Weisungen oder Bewährungshilfe'.
+'Rückversetzung in Strafvollzug' wird aufgehoben bei 'Verlängerung nach Art. 87 Abs. 3'.
+'Bewährung während Probezeit' führt zu 'endgültige Entlassung'.
+'Straftat während Probezeit' führt zu 'Rückversetzung in Strafvollzug'.
+'keine Rückversetzung' ist zulässig bei 'geringer Rückfallgefahr'.
+'Verlängerung nach Probezeit' beginnt mit 'Tag der Anordnung'.
+'Bewährungshilfe/Weisungen' wird aufgehoben bei 'Missachtung'.
+'Bewährungshilfe/Weisungen' werden festgehalten in 'Urteil oder Entscheid'.
+'neue Straftat + Reststrafe' führt zu 'Gesamtstrafe nach Art. 49'.
+'Reststrafe + Massnahme' richtet sich nach 'Art. 57 Abs. 2 und 3'.
+'Einweisung in Einzelunterbringung' ist zulässig bei 'therapeutischer Notwendigkeit oder Schutz'.
+'Einweisung' wird aufgehoben bei 'Gefahr terroristischer Beeinflussung'.
+'Vollzugsplan' besteht aus 'Angaben zu Behandlung und Drittgefährdung'.
+'arbeitsfähiger Eingewiesener' ist unterworfen 'Arbeitspflicht nach Art. 81–83'.
+'Beziehungen zur Aussenwelt' richtet sich nach 'Art. 84'.
+'Einweisung in offene Einrichtung' richtet sich nach 'Art. 75a'.
+'Urlaub bei lebenslanger Verwahrung' wird aufgehoben bei 'dauerhafte Verwahrung'.
+'Kontrollen und Untersuchungen' richtet sich nach 'Art. 85'.
+'Verstoss gegen Vorschriften' führt zu 'Disziplinarsanktion'.
+'Disziplinarsanktionen' bestehen aus 'Verweis, Geldentzug, Busse, Arrest'.
+'Vollzug von Strafen oder Massnahmen' wird aufgehoben bei 'wichtigen Gründen'.
+'Opfer oder Angehörige' ersuchen 'Information über Vollzugsereignisse'.
+'Information' wird aufgehoben bei 'überwiegenden Interessen des Verurteilten'.
+'bewilligtes Gesuch' verlangt 'Hinweis auf Vertraulichkeit der Information'.
+'Opfer nach OHG' ist zulässig bei 'Weitergabe an Beratungsstelle ohne Vertraulichkeitspflicht'.
+'Bewährungshilfe' ist unterworfen 'Wohnsitzkanton der betreuten Person'.
+'Bewährungshilfe' besteht aus 'Sozial- und Fachhilfe'.
+'Bewährungshilfe' richtet sich nach 'Verhinderung von Rückfall und Integration'.
+'Bewährungshilfeperson' ist unterworfen 'Schweigepflicht'.
+'Auskünfte über betreute Person' sind zulässig bei 'schriftlicher Zustimmung'.
+'Strafbehörden' ersuchen 'Bericht über betreute Person'.
+'Weisungen in Probezeit' betreffen 'Beruf, Aufenthalt, Fahrzeug, Ersatz, Betreuung'.
+'Delikt gegen sexuelle Integrität' führt zu 'Verpflichtung zu Lernprogramm'.
+'Gericht oder Strafvollzugsbehörde' ersucht 'Bericht vor Anordnung von Bewährungshilfe/Weisungen'.
+'Bericht' verlangt 'Stellungnahme der betroffenen Person'.
+'Missachtung oder Undurchführbarkeit' verlangt 'Bericht an Gericht oder Behörde'.
+'Gericht oder Behörde' verfügt 'Verlängerung, Änderung oder Aufhebung der Massnahmen'.
+'erneute Rückfallgefahr' führt zu 'Widerruf oder Rückversetzung'.
+'Strafverfolgung' ist zulässig bei 'fehlender Auslieferung oder Überstellung'.
+'Strafverfolgung' ist zulässig bei 'Taten nach 12. Titelbis, 12. Titelter, Art. 264k ohne besondere Ermächtigung'.
+'Strafverfolgung' erfordert Antrag 'Bundesrat'.
+'Strafverfolgung' ist verjährt nach '30/15/10/7 Jahren je nach Strafandrohung'.
+'Strafverfolgung' wird eingestellt bei 'Verfolgung durch ausländische Behörde oder Abwesenheit des Täters'.
+'Straftat gegen Kind <16' ist verjährt nach 'min. bis 25. Lebensjahr des Opfers'.
+'erstinstanzliches Urteil' verhindert 'Eintritt der Verjährung'.
+'Straftat vor 5. Okt. 2001' richtet sich nach 'Abs. 1–3 bei noch nicht eingetretener Verjährung'.
+'Verjährung' beginnt mit 'Tag der letzten strafbaren Tätigkeit oder Ende des Verhaltens'.
+'Verjährung' beginnt mit 'rechtlicher Vollstreckbarkeit des Urteils'.
+'Verjährung Freiheitsstrafe' verlängert sich bei 'ununterbrochener Vollzug oder Probezeit'.
+'Verjährung bei bedingter Strafe oder Massnahme' beginnt mit 'Anordnung des Strafvollzugs'.
+'Verbrechen wie Völkermord oder Vergewaltigung an Kind <12' ist unterworfen 'keiner Verjährung'.
+'verjährte Tat nach Art. 97–98' wird beurteilt nach 'milder Strafe'.
+'Strafverfolgung nicht verjährt bei' Stichtag 'je nach Gesetzesänderung'.
+'Verbrechen im Unternehmen' wird beurteilt nach 'mangelhafter Organisation'.
+'Unternehmen' besteht aus 'juristische Personen, Gesellschaften, Einzelfirmen'.
+'Unternehmen' setzt voraus 'nicht getroffene organisatorische Vorkehrungen'.
+'Unternehmen' wird bestraft mit 'Busse bis 5 Millionen CHF'.
+'bestimmte Straftaten' werden bestraft 'unabhängig von Strafbarkeit natürlicher Personen'.
+'Übertretung' ist unterworfen 'Busse'.
+'Übertretung' ist strafbar bei 'Fahrlässigkeit (sofern nicht ausgeschlossen)'.
+'Übertretung' gilt für 'Tat mit ≤ 3 Monate Gefängnis vor 1942'.
+'Übertretung' ist ausgeschlossen bei 'bedingter/teilbedingter Strafe, Landesverweisung, Unternehmensverantwortung'.
+'Busse' wird beurteilt nach 'Art. 35 und 36 Abs. 2'.
+'Busse' ist begrenzt auf '10'000 CHF'.
+'Erster Teil' gilt für 'Übertretungen mit Änderungen'.
+'Versuch und Gehilfenschaft' wird bestraft bei 'gesetzlich bestimmten Fällen'.
+'Massnahmen' sind zulässig bei 'gesetzlich bestimmten Fällen'.
+'nicht bezahlte Busse' führt zu 'Ersatzfreiheitsstrafe 1 Tag bis 3 Monate'.
+'Strafverfolgung und Strafe' ist verjährt nach '3 Jahren'.
+'Familiengenossen' bestehen aus 'Personen im gemeinsamen Haushalt'.
+'Beamte' bestehen aus 'Angestellte und Funktionsträger im öffentlichen Dienst'.
+'Sache' gilt für 'Tiere bei entsprechender Anwendung'.
+'Urkunde' besteht aus 'Schrift oder Zeichen mit Beweisfunktion'.
+'öffentliche Urkunde' ist unterworfen 'Ausstellung durch hoheitliche Funktionsträger'.
+'Tag' besteht aus '24 Stunden'.
+'vorsätzliche Tötung' wird bestraft mit 'Freiheitsstrafe ≥ 5 Jahre'.
+'besonders skrupellose Tötung' wird bestraft mit 'lebenslängliche Freiheitsstrafe oder ≥ 10 Jahre'.
+'Tötung in entschuldbarer Gemütsbewegung' wird bestraft mit 'Freiheitsstrafe 1 bis 10 Jahre'.
+'Tötung auf Verlangen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verleitung oder Hilfe zum Selbstmord' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Selbstsüchtiger Beweggrund' ist unterworfen 'Strafbarkeitsvoraussetzung'.
+'Kindstötung unter Geburt' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'fahrlässige Tötung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Schwangerschaftsabbruch mit Einwilligung ohne Voraussetzungen' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Abbruch ohne Einwilligung' wird bestraft mit 'Freiheitsstrafe 1 bis 10 Jahre'.
+'Frau, die nach 12 Wochen abbricht' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Tat nach Art. 118 Abs. 1 oder 3' ist verjährt nach '3 Jahren'.
+'Abbruch bei schwerwiegender Gefahr' ist zulässig bei 'ärztlichem Urteil'.
+'Abbruch innerhalb 12 Wochen' ist zulässig bei 'schriftlichem Verlangen und Notlage'.
+'Ärztin oder Arzt' verlangt 'persönliches Gespräch und Beratung'.
+'nicht urteilsfähige Frau' verlangt 'Zustimmung gesetzlicher Vertreter'.
+'Schwangerschaftsabbruch' wird gemeldet bei 'zuständiger Gesundheitsbehörde (anonym)'.
+'Ärztin/Arzt bei Abbruch' wird bestraft mit 'Busse bei Unterlassung gesetzlicher Pflichten'.
+'Ärztin/Arzt' verlangt 'schriftliches Gesuch der Frau'.
+'Ärztin/Arzt' verlangt 'Beratung, Information, Aushändigung von Leitfaden'.
+'Ärztin/Arzt' wird bestraft bei 'Nichtmeldung des Abbruchs an Gesundheitsbehörde'.
+'Leitfaden' besteht aus 'Beratungsstellen, Hilfeangebote, Adoptionsinfo'.
+'Frau <16 Jahre' verlangt 'Kontakt zu Jugendberatungsstelle'.
+'vorsätzliche schwere Körperverletzung' wird bestraft mit 'Freiheitsstrafe 1 bis 10 Jahre'.
+'Verletzung mit Lebensgefahr' ist unterworfen 'Art. 122'.
+'Verstümmelung oder dauerhafte Schädigung' ist unterworfen 'Art. 122'.
+'bleibende Entstellung oder Geisteskrankheit' ist unterworfen 'Art. 122'.
+'vorsätzliche leichte Körperverletzung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'leichte Körperverletzung' wird verfolgt bei 'Antrag'.
+'Tat mit Waffe oder an Wehrlosem' wird beurteilt nach 'Offizialdelikt'.
+'Tat in Ehe oder Partnerschaft' wird beurteilt nach 'Offizialdelikt'.
+'Genitalverstümmelung weiblicher Person' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Genitalverstümmelung im Ausland' ist strafbar bei 'Aufenthalt in der Schweiz und keiner Auslieferung'.
+'fahrlässige Körperverletzung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'schwere fahrlässige Körperverletzung' wird verfolgt 'von Amtes wegen'.
+'Tätlichkeit ohne Verletzung' wird bestraft mit 'Busse auf Antrag'.
+'wiederholte Tätlichkeit gegen Schutzbedürftige' wird beurteilt nach 'Offizialdelikt'.
+'Aussetzen oder im Stich lassen eines Hilflosen' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'unterlassene Hilfeleistung bei Lebensgefahr' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Behinderung oder Verhinderung von Nothilfe' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'grundlose Alarmierung von Rettungsdiensten' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'skrupellose Gefährdung des Lebens' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Teilnahme an Raufhandel mit Todes- oder Verletzungsfolge' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'ausschliesslich abwehrende Handlung' ist unterworfen 'keine Strafbarkeit'.
+'Teilnahme an Angriff mit Todes- oder Verletzungsfolge' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Darstellung grausamer Gewalttätigkeit ohne kulturellen Wert' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Darstellung tatsächlicher Gewalt gegen Minderjährige' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Konsum solcher Darstellungen' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe'.
+'Konsum tatsächlicher Gewalt gegen Minderjährige' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'entsprechende Gegenstände' werden beurteilt nach 'Einziehung'.
+'Verabreichung gefährdender Stoffe an Kind <16' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'unrechtmässige Aneignung fremder beweglicher Sache' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Aneignung ohne Bereicherungsabsicht oder bei Fund' wird verfolgt 'auf Antrag'.
+'Aneignung zum Nachteil Angehöriger' wird verfolgt 'auf Antrag'.
+'Veruntreuung anvertrauter Sache' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Veruntreuung durch Beamten oder Berufsträger' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'Veruntreuung zum Nachteil Angehöriger' wird verfolgt 'auf Antrag'.
+'Diebstahl' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'gewerbsmässiger Diebstahl oder Bandenmitgliedschaft' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Diebstahl mit Waffe oder besonderer Gefährlichkeit' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Diebstahl zum Nachteil Angehöriger' wird verfolgt 'auf Antrag'.
+'Raub unter Gewalt oder Drohung' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Raub mit Waffe' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Raub mit Bandenmitgliedschaft oder besonderer Gefährlichkeit' wird bestraft mit 'Freiheitsstrafe ≥ 2 Jahre'.
+'Raub mit Lebensgefahr oder Grausamkeit' wird bestraft mit 'Freiheitsstrafe ≥ 5 Jahre'.
+'Entziehung beweglicher Sache ohne Aneignungsabsicht' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verwendung zugekommener Vermögenswerte' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'unrechtmässiger Energieentzug' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Energieentzug mit Bereicherungsabsicht' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'unbefugte Datenbeschaffung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Datenbeschaffung zum Nachteil von Angehörigen' wird verfolgt 'auf Antrag'.
+'Hacken in gesichertes System' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verbreitung von Hacking-Werkzeugen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Sachbeschädigung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Sachbeschädigung bei Zusammenrottung' wird verfolgt 'von Amtes wegen'.
+'Sachbeschädigung mit grossem Schaden' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Veränderung oder Löschung von Daten' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Datenmanipulation mit grossem Schaden' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Verbreitung von Programmen zur Datenmanipulation' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'gewerbsmässige Verbreitung' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Schädigung von Pfand- oder Retentionsgegenstand' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'arglistiger Betrug mit Vermögensschaden' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'gewerbsmässiger Betrug' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Betrug gegen Angehörige' wird verfolgt 'auf Antrag'.
+'betrügerischer Missbrauch von Datenverarbeitung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'gewerbsmässiger Datenmissbrauch' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Datenmissbrauch gegen Angehörige' wird verfolgt 'auf Antrag'.
+'Missbrauch von Karte bei Zahlungsunfähigkeit' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'gewerbsmässiger Kartenmissbrauch' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Sozialversicherungs- oder Sozialhilfebetrug' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe'.
+'leichter Fall von Sozialhilfebetrug' wird bestraft mit 'Busse'.
+'Prellung im Gastgewerbebetrieb' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Erschleichung entgeltlicher Leistungen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Herstellung oder Verbreitung von Entschlüsselungsgeräten' wird bestraft mit 'Busse'.
+'Versuch und Gehilfenschaft bei Entschlüsselung' ist unterworfen 'Strafbarkeit'.
+'arglistige Irreführung ohne Bereicherungsabsicht' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'unwahre Angaben durch Unternehmensleitung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'unwahre Handelsregistereintragung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'unzulässige Vergütung gemäss OR' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre und Geldstrafe'.
+'Verletzung börsenkotierter Gesellschaftsregeln' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verwirklichung nur in Kauf genommen' führt zu 'keine Strafbarkeit'.
+'Geldstrafe bei OR-Verletzungen' ist begrenzt auf '6-fache Jahresvergütung'.
+'Täuschung durch verfälschte Ware' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'gewerbsmässige Täuschung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Vermögensschädigung durch Erpressung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'gewerbsmässige oder fortgesetzte Erpressung' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Gewalt oder Lebensgefahr' richtet sich nach 'Art. 140'.
+'Drohung gegen viele Menschen oder öffentliches Gut' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Wucher durch Ausnutzung von Schwäche' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'gewerbsmässiger Wucher' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Pflichtverletzung bei Vermögensverwaltung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'ungetreue Geschäftsführung ohne Auftrag' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Bereicherungsabsicht bei Pflichtverletzung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Missbrauch einer Vertretungsvollmacht' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'ungetreue Geschäftsbesorgung gegen Angehörige' wird verfolgt 'auf Antrag'.
+'Nichtverwendung von Lohnabzügen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Hehlerei' richtet sich nach 'Strafe der Vortat wenn milder'.
+'Hehlerei' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Hehlerei bei Antragsdelikt' wird verfolgt 'nur bei Antrag auf Vortat'.
+'gewerbsmässige Hehlerei' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Verrat von Geschäftsgeheimnis' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Ausnutzung verratenen Geheimnisses' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Täuschung zur Vermögensverschleierung bei Konkurs' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Täuschung durch Dritte zum Schaden der Gläubiger' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Vermögensminderung durch Schuldner bei Konkurs' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Dritter, der Vermögensminderung verursacht' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Misswirtschaft mit Folge von Überschuldung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Missbrauch von Stützungsmassnahmen' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'auf Pfändung betriebener Schuldner' wird verfolgt 'auf Antrag bei Verlustschein'.
+'Verleiter zu Leichtsinn oder Wucher' ist unterworfen 'kein Antragsrecht'.
+'Verletzung Buchführungspflicht bei Konkurs' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Gläubigerbegünstigung bei Zahlungsunfähigkeit' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Beeinflussung durch Vorteil in Gläubigerversammlung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Beeinflussung von Konkursverwaltung durch Vorteil' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Annahme von Vorteilen zur Beeinflussung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'eigenmächtige Verfügung über amtlich gebundenes Vermögen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Irreführung zur Nachlassstundung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Dritte Irreführung zur Nachlassstundung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'gerichtlicher Nachlassvertrag' richtet sich nach 'Art. 163–167'.
+'Tat mit geringem Vermögenswert' wird bestraft mit 'Busse auf Antrag'.
+'qualifizierter Diebstahl oder Raub' ist ausgeschlossen bei 'Art. 172ter'.
+'ehrenrührige Beschuldigung' wird bestraft mit 'Geldstrafe auf Antrag'.
+'Wahrheitsbeweis oder gute Treue' ist zulässig bei 'Strafausschluss'.
+'üble Nachrede ohne öffentliches Interesse' wird bestraft mit 'Geldstrafe'.
+'Rücknahme der Äusserung' führt zu 'mildere Strafe oder Strafbefreiung'.
+'nicht erbrachter Wahrheitsbeweis' führt zu 'Feststellung im Urteil'.
+'falsche ehrenrührige Beschuldigung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'planmässige Rufschädigung' wird bestraft mit 'Freiheitsstrafe 1 Monat bis 3 Jahre oder Geldstrafe ≥ 30 Tagessätze'.
+'Rücknahme der Äusserung vor Gericht' führt zu 'mildere Strafe und Urkunde für Verletzten'.
+'ehrenrührige Äusserung über Verstorbene' wird verfolgt 'auf Antrag durch Angehörige'.
+'Tat nach 30 Jahren nach Tod' ist unterworfen 'Straflosigkeit'.
+'nicht-mündliche ehrverletzende Äusserung' ist gleichgestellt mit 'mündlicher übler Nachrede oder Verleumdung'.
+'Ehrverletzung durch Wort, Bild, Gebärde oder Tätlichkeit' wird bestraft mit 'Geldstrafe bis 90 Tagessätze'.
+'provokative Handlung des Opfers' führt zu 'Strafbefreiung'.
+'gegenseitige Beschimpfung oder Tätlichkeit' führt zu 'möglicher Strafbefreiung'.
+'Vergehen gegen die Ehre' ist verjährt nach '4 Jahren'.
+'Öffnen fremder verschlossener Sendung' wird bestraft mit 'Busse auf Antrag'.
+'Verbreitung erlangter Inhalte' wird bestraft mit 'Busse auf Antrag'.
+'Abhören nichtöffentlichen Gesprächs mit Abhörgerät' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verwertung abgehörter Inhalte' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Teilnehmeraufnahme nichtöffentlichen Gesprächs' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe'.
+'Beobachtung von Geheimbereich mit Aufnahmegerät' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verwertung oder Weitergabe solcher Aufnahmen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Aufzeichnung von Gesprächen mit Sicherheitsdiensten' ist zulässig bei 'Beweiszweck'.
+'Geschäftliche Gesprächsaufzeichnung' ist zulässig bei 'Beweiszweck'.
+'Verbreitung technischer Überwachungsgeräte' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Dritter, der Überwachungsgeräte-Verstoß duldet' ist unterworfen 'gleicher Strafandrohung wie Täter'.
+'Missbrauch Fernmeldeanlage zur Belästigung' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe'.
+'Überwachung mit gesetzlicher Befugnis' ist zulässig bei 'richterlicher Genehmigung'.
+'unbefugte Beschaffung sensibler Personendaten' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe auf Antrag'.
+'Identitätsmissbrauch' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe auf Antrag'.
+'schwere Drohung mit Angstverursachung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe auf Antrag'.
+'Drohung durch Ehe-/Lebenspartner' wird verfolgt 'von Amtes wegen'.
+'Nötigung durch Gewalt oder Zwang' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Nötigung zur Eheschliessung oder Partnerschaft' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Nötigung zur Ehe im Ausland' ist unterworfen 'Strafbarkeit in der Schweiz'.
+'Menschenhandel zur Ausbeutung' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'Menschenhandel mit Minderjährigen oder gewerbsmässig' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Menschenhandel im Ausland' ist unterworfen 'Strafbarkeit in der Schweiz'.
+'unrechtmässige Freiheitsberaubung oder Entführung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Entführung von Schutzbedürftigen' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'schwere Freiheitsberaubung mit Erschwernis' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Freiheitsberaubung zur Nötigung Dritter' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Nötigung mit Drohung von Tod oder Grausamkeit' wird bestraft mit 'Freiheitsstrafe ≥ 3 Jahre'.
+'besonders schwerer Fall von Geiselnahme' wird bestraft mit 'lebenslängliche Freiheitsstrafe'.
+'Rücktritt von Geiselnahme' führt zu 'milderer Strafe'.
+'Geiselnahme im Ausland' ist unterworfen 'Strafbarkeit in der Schweiz'.
+'Hausfriedensbruch gegen Willen des Berechtigten' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe auf Antrag'.
+'sexuelle Handlung mit Kind < 16' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'sexuelle Handlung mit Kind < 12' wird bestraft mit 'Freiheitsstrafe 1 bis 5 Jahre'.
+'geringer Altersunterschied bei sexueller Handlung' ist unterworfen 'Straflosigkeit'.
+'Täter < 20 Jahre mit besonderen Umständen' ermöglicht 'Absehen von Strafverfolgung'.
+'Irrtum über Alter des Kindes' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'sexuelle Handlung bei abhängiger minderjähriger Person' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'sexuelle Handlung gegen Willen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'sexuelle Nötigung mit Drohung oder Gewalt' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'grausame sexuelle Nötigung oder mit Waffe' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Vergewaltigung gegen Willen' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre'.
+'Vergewaltigung mit Drohung oder Gewalt' wird bestraft mit 'Freiheitsstrafe 1 bis 10 Jahre'.
+'grausame Vergewaltigung oder mit Waffe' wird bestraft mit 'Freiheitsstrafe ≥ 3 Jahre'.
+'sexueller Missbrauch urteilsunfähiger Person' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'sexuelle Handlung unter Ausnutzung von Notlage oder Abhängigkeit' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'sexuelle Handlung unter Täuschung im Gesundheitsbereich' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Exhibitionismus' wird bestraft mit 'Busse auf Antrag'.
+'schwerer Fall von Exhibitionismus' wird bestraft mit 'Geldstrafe auf Antrag'.
+'ärztliche Behandlung bei Exhibitionismus' führt zu 'Verfahrenseinstellung'.
+'Förderung von Kinderprostitution' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'Zuführung zur Prostitution aus Abhängigkeit' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'Überwachung oder Einschränkung von Prostituierten' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'Festhalten einer Person in der Prostitution' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'sexuelle Handlung gegen Entgelt mit Minderjährigen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verbreitung pornografischer Inhalte an <16-Jährige' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'öffentliche Ausstellung pornografischer Inhalte' wird bestraft mit 'Busse'.
+'Hinweis auf pornografischen Charakter' führt zu 'Straflosigkeit'.
+'Anwerbung Minderjähriger für Pornovorführung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verbreitung von Inhalten mit Tiersex oder fiktivem Kindesmissbrauch' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verbreitung von Inhalten mit tatsächlichem Kindesmissbrauch' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Konsum von Tiersex oder fiktivem Kindesmissbrauch' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe'.
+'Konsum von tatsächlichem Kindesmissbrauch' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Straftaten nach Abs. 4 und 5' führen zu 'Einziehung der Gegenstände'.
+'Herstellung durch Minderjährige mit Einwilligung' ist zulässig bei 'kein Entgelt und Altersunterschied ≤ 3 Jahre'.
+'Eigene Herstellung und Weitergabe unter Minderjährigen' ist zulässig bei 'persönliche Bekanntschaft und Altersunterschied ≤ 3 Jahre'.
+'pornografische Inhalte mit kulturellem oder wissenschaftlichem Wert' sind unterworfen 'keiner Strafbarkeit'.
+'Weiterleitung nicht öffentlicher sexueller Inhalte ohne Zustimmung' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe auf Antrag'.
+'öffentliche Verbreitung nicht öffentlicher sexueller Inhalte' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'öffentliche sexuelle Handlung mit Ärgernis' wird bestraft mit 'Busse auf Antrag'.
+'sexuelle Belästigung durch Wort, Schrift oder Bild' wird bestraft mit 'Busse auf Antrag'.
+'Teilnahme an Lernprogramm' führt zu 'Verfahrenseinstellung'.
+'Verstoss gegen Prostitutionsvorschriften' wird bestraft mit 'Busse'.
+'gemeinschaftliche Begehung einer Sexualstraftat' führt zu 'Strafverschärfung'.
+'Beischlaf mit Blutsverwandten' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'verführte minderjährige Person' ist unterworfen 'Straflosigkeit'.
+'Doppelehe oder Doppelpartnerschaft' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Verletzung von Unterhaltspflicht trotz Mitteln' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe auf Antrag'.
+'Verletzung der Fürsorgepflicht gegenüber Minderjährigen' führt zu 'Gefährdung der Entwicklung'.
+'Verletzung der Fürsorgepflicht' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'fahrlässige Verletzung der Fürsorgepflicht' wird bestraft mit 'Geldstrafe'.
+'Entziehung eines Minderjährigen vom Aufenthaltsbestimmungsberechtigten' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe auf Antrag'.
+'vorsätzliche Feuersbrunst mit Gemeingefahr' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'vorsätzliche Feuersbrunst mit Lebensgefahr' wird bestraft mit 'Freiheitsstrafe ≥ 3 Jahre'.
+'Feuersbrunst mit geringem Schaden' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'fahrlässige Feuersbrunst' wird bestraft mit 'Freiheitsstrafe bis 1 Jahr oder Geldstrafe'.
+'fahrlässige Feuersbrunst mit Lebensgefahr' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzliche Explosion mit Gefahr für Leib und Leben' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'vorsätzliche Explosion mit geringem Schaden' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'fahrlässige Explosion' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzlicher Einsatz von Sprengstoffen in verbrecherischer Absicht' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Gefährdung von Eigentum in geringem Umfang' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzlicher Einsatz von Sprengstoffen ohne verbrecherische Absicht' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'fahrlässiger Einsatz von Sprengstoffen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'Herstellung von Sprengstoffen zum verbrecherischen Gebrauch' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 10 Jahre'.
+'Besitz oder Weitergabe von Sprengstoffen zum verbrecherischen Gebrauch' wird bestraft mit 'Freiheitsstrafe 1 Monat bis 5 Jahre oder Geldstrafe ≥ 30 Tagessätze'.
+'Anleitung zur Herstellung von Sprengstoffen zum verbrecherischen Gebrauch' wird bestraft mit 'Freiheitsstrafe 1 Monat bis 5 Jahre oder Geldstrafe ≥ 30 Tagessätze'.
+'vorsätzlicher Umgang mit Kernenergie' führt zu 'Gefahr für Leben oder Gesundheit'.
+'vorsätzlicher Umgang mit Kernenergie' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'fahrlässiger Umgang mit Kernenergie' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Vorbereitung zu kerntechnischer Gefährdung' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'Besitz radioaktiver Stoffe zum strafbaren Gebrauch' wird bestraft mit 'Freiheitsstrafe bis 10 Jahre oder Geldstrafe'.
+'Anleitung zur Herstellung radioaktiver Stoffe' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'vorsätzliche Naturkatastrophenverursachung' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'vorsätzliche Naturkatastrophenverursachung mit geringem Schaden' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'fahrlässige Naturkatastrophenverursachung' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzliche Beschädigung von Schutzanlagen' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'vorsätzliche Beschädigung von Schutzanlagen mit geringem Schaden' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'fahrlässige Beschädigung von Schutzanlagen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzliche Missachtung der Baukunde' führt zu 'Gefährdung von Leben'.
+'vorsätzliche Missachtung der Baukunde' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'fahrlässige Missachtung der Baukunde' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzliche Unbrauchbarmachung von Sicherheitsvorrichtungen' wird bestraft mit 'Freiheitsstrafe bis 5 Jahre oder Geldstrafe'.
+'fahrlässige Unbrauchbarmachung von Sicherheitsvorrichtungen' wird bestraft mit 'Freiheitsstrafe bis 3 Jahre oder Geldstrafe'.
+'vorsätzliche Freisetzung' führt zu 'Gefährdung von Menschen oder Umwelt'.
+'Gefährdung durch Organismen' wird bestraft mit 'Freiheitsstrafe 1–10 Jahre'.
+'fahrlässige Freisetzung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verbreitung gefährlicher Krankheit' wird bestraft mit 'Freiheitsstrafe 1–5 Jahre'.
+'Verbreitung von Tierseuchen' ist strafbar bei 'gemeiner Gesinnung und großem Schaden'.
+'Verbreitung von Tierseuchen' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verbreitung von Schädlingen' ist strafbar bei 'gemeiner Gesinnung und großem Schaden'.
+'Verbreitung von Schädlingen' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verunreinigung von Trinkwasser' wird bestraft mit 'Freiheitsstrafe 1 Monat–5 Jahre oder Geldstrafe'.
+'gesundheitsschädliches Tierfutter' wird beurteilt nach 'Grad der Fahrlässigkeit'.
+'gesundheitsschädliches Tierfutter' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'gewerbsmässige Futtermittelverunreinigung' wird bestraft mit 'Freiheitsstrafe 1 Monat–3 Jahre oder Geldstrafe ≥ 30 Tagessätze'.
+'gesundheitsschädliche Ware' wird aufgehoben bei 'Einziehung und Vernichtung'.
+'vorsätzliche Tat' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'fahrlässige Tat' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'fahrlässige Tat' wird bestraft mit 'Geldstrafe'.
+'fahrlässige Tat' wird bestraft mit 'Freiheitsstrafe ≤ 1 Jahr oder Geldstrafe'.
+'Ware' wird aufgehoben bei 'gesundheitsschädliches Futter'.
+'Störung des öffentlichen Verkehrs' ist strafbar bei 'Gefährdung von Leib und Leben oder Eigentum'.
+'Gefährdung vieler Menschen' wird bestraft mit 'Freiheitsstrafe ≤ 10 Jahre oder Geldstrafe'.
+'Geldfälschung' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Geldverfälschung' wird bestraft mit 'Freiheitsstrafe 6 Monate bis 5 Jahre'.
+'Einfuhr in grosser Menge' wird bestraft mit 'Freiheitsstrafe 1 bis 5 Jahre'.
+'Verwendung gefälschter Wertzeichen' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Verwendung gefälschter Prüfzeichen' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Fälschungsmittel' wird aufgehoben bei 'Verwechslungsgefahr oder Fälschung'.
+'Titelbestimmungen' gelten für 'ausländisches Geld und Wertzeichen'.
+'Urkundenfälschung' ist strafbar bei 'Täuschungsabsicht oder Schädigungsabsicht'.
+'Urkundenfälschung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'erschlichene Urkunde' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Urkundenunterdrückung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Artikel 251–254' gelten für 'Urkunden des Auslandes'.
+'Aufforderung zu Völkermord' ist strafbar bei 'Begehung in der Schweiz, auch bei Aufforderung im Ausland'.
+'Teilnahme' ist strafbar bei 'Gewalt in öffentlicher Zusammenrottung'.
+'Teilnehmer' bleibt straffrei bei 'Entfernung und Gewaltverzicht'.
+'Vorbereitungshandlung' ist strafbar bei 'Begehung im Ausland bei geplanter Tat in der Schweiz'.
+'Vorbereitungshandlung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Beteiligung' wird bestraft mit 'Freiheitsstrafe ≤ 10 Jahre oder Geldstrafe'.
+'führende Rolle' wird bestraft mit 'Freiheitsstrafe ≥ 3 Jahre'.
+'Bemühen um Verhinderung' führt zu 'Strafmilderung'.
+'Terrorismusfinanzierung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Handlung' ist nicht strafbar bei 'reine Inkaufnahme der Möglichkeit'.
+'Handlung' ist nicht strafbar bei 'Förderung von Menschenrechten oder Demokratie'.
+'Handlung' ist nicht strafbar bei 'Konformität mit humanitärem Völkerrecht'.
+'Finanzierung oder Organisation' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Diskriminierung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Entwendung Leichnam' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Tat mit Verbrechenscharakter' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Völkermord' ist strafbar bei 'Absicht der Gruppenvernichtung'.
+'Völkermord' wird bestraft mit 'lebenslänglicher Freiheitsstrafe oder ≥ 10 Jahre'.
+'Verbrechen gegen die Menschlichkeit' ist strafbar bei 'systematischer Angriff auf Zivilbevölkerung'.
+'Verbrechen gegen die Menschlichkeit' wird bestraft mit 'Freiheitsstrafe ≥ 5 Jahre'.
+'besonders schwerer Fall' wird bestraft mit 'lebenslänglicher Freiheitsstrafe'.
+'weniger schwerer Fall' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Artikel 264d–264j' gelten für 'internationale und nicht-internationale bewaffnete Konflikte'.
+'Verstoß' wird bestraft mit 'Freiheitsstrafe ≥ 5 Jahre'.
+'Vorgesetzter' ist strafbar bei 'Unterlassung von Verhinderung oder Bestrafung'.
+'fahrlässige Unterlassung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Untergebener' ist strafbar bei 'Bewusstsein über Strafbarkeit eines Befehls'.
+'Zusammenarbeit mit fremder Macht zum Kriegszweck' wird bestraft mit 'Freiheitsstrafe ≥ 3 Jahre'.
+'schwerer Fall' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'schwerer Fall' wird bestraft mit 'lebenslänglicher Freiheitsstrafe'.
+'Geheimnisverrat an Öffentlichkeit' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'fahrlässiger Geheimnisverrat' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'gewaltsame Entführung' wird bestraft mit 'Freiheitsstrafe ≥ 1 Jahr'.
+'Vorbereitung der Entführung' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'Nachrichtendienstmaterial' wird aufgehoben bei 'Strafverfolgung'.
+'Nachrichtendienstmaterial' wird aufgehoben bei 'militärischer Nachrichtendienst'.
+'Meuterei' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'Wahlbestechung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'amtlicher Täter' wird bestraft mit 'Freiheitsstrafe 1 Monat bis 3 Jahre oder Geldstrafe ≥ 30 Tagessätze'.
+'leichter Fall' wird bestraft mit 'Geldstrafe'.
+'Zusammenrottung' führt zu 'Freiheitsstrafe ≤ 3 Jahre'.
+'Gewalt an Personen' wird bestraft mit 'Freiheitsstrafe 3 Monate bis 3 Jahre'.
+'Gewalt an Sachen' wird bestraft mit 'Freiheitsstrafe 3 Monate bis 3 Jahre oder Geldstrafe ≥ 90 Tagessätze'.
+'Nichtbefolgung behördlicher Verfügung' wird bestraft mit 'Busse'.
+'Verfügung mit Strafandrohung' verlangt 'Folgeleistung'.
+'Geheimnisverrat' ist zulässig bei 'überwiegendes Interesse'.
+'Geheimnisverrat' wird bestraft mit 'Busse'.
+'Gehilfenschaft zu Geheimnisverrat' ist strafbar bei 'Geheimniserklärung'.
+'Verstoss gegen Tätigkeitsverbot' wird bestraft mit 'Freiheitsstrafe ≤ 1 Jahr oder Geldstrafe'.
+'Verstoss gegen Kontakt- oder Rayonverbot' wird bestraft mit 'Freiheitsstrafe ≤ 1 Jahr oder Geldstrafe'.
+'Kontakt- oder Rayonverbot' ist unterworfen 'Art. 67b StGB, Art. 50b MStG, Art. 16a JStG'.
+'Entzug von Bewährungshilfe' wird bestraft mit 'Busse'.
+'Beleidigung eines fremden Staats oder Vertreters' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Beleidigung zwischenstaatlicher Organisation' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Beleidigung oder Beschädigung ausländischer Hoheitszeichen' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verletzung der Gebietshoheit' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Störung ausländischer Ordnung von CH-Gebiet' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Feindseligkeiten gegen Kriegführende von CH-Gebiet' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'Feindseligkeiten gegen fremde Truppen in CH' wird bestraft mit 'Freiheitsstrafe oder Geldstrafe'.
+'Militärischer Nachrichtendienst für fremden Staat' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Anwerbung für fremden Nachrichtendienst' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Bundesrat' regelt 'Aufbewahrungsdauer und Löschverfahren'.
+'Bundesrat' regelt 'Inhalt und Art der Präventionsmassnahmen'.
+'Bundesrat' regelt 'Kommission für lebenslänglich Verwahrte'.
+'Bundesrat' ist ermächtigt zu 'Mandatsänderung mit Europol'.
+'Bundesrat' erlässt 'Vollzugsbestimmungen zu Strafen und Massnahmen'.
+'Bundesrat' kann regeln 'Trennung Tessiner Anstalten'.
+'Bundesrat' kann einführen 'neue Strafen oder Vollzugsformen auf Zeit'.
+'Strafverfolgung nach Art. 296' verlangt 'Ersuchen ausländische Regierung'.
+'Strafverfolgung nach Art. 297' verlangt 'Ersuchen zwischenstaatliche Organisation'.
+'Verbrechen nach Art. 296/297' ist verjährt nach '2 Jahre'.
+'Falsche Anschuldigung wegen Verbrechen/Vergehen' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Falsche Anschuldigung wegen Übertretung' wird bestraft mit 'Freiheitsstrafe ≤ 1 Jahr oder Geldstrafe'.
+'Falsche Anzeige' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Selbstbeschuldigung wider besseres Wissen' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Entzug von Person aus Strafverfolgung oder Vollzug' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Entzug von im Ausland Verfolgten nach Art. 101' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Begünstigung nahestehender Person' ist zulässig bei 'entschuldbarer Beziehung'.
+'Geldwäscherei' ist strafbar bei 'Vortat im Ausland, dort strafbar'.
+'Geldwäscherei' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Geldwäscherei in schwerem Fall' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Qualifiziertes Steuervergehen' gilt für 'Hinterziehung > 300'000 CHF'.
+'Schwerer Fall' besteht aus 'Mitgliedschaft kriminelle Organisation, Bande, Gewerbsmässigkeit'.
+'Unterlassene Feststellung wirtschaftlich Berechtigter' wird bestraft mit 'Freiheitsstrafe ≤ 1 Jahr oder Geldstrafe'.
+'Berufsmässiger Finanzintermediär' ist zulässig bei 'Meldung an Geldwäscherei-Meldestelle'.
+'Falsche Beweisaussage als Partei' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Falsche Beweisaussage zu unerheblichen Tatsachen' wird bestraft mit 'Geldstrafe'.
+'Falschaussage im Verfahren' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Falschaussage zu unerheblichen Tatsachen' wird bestraft mit 'Geldstrafe'.
+'Berichtigung falscher Aussage' ermöglicht 'Strafmilderung oder Strafverzicht'.
+'Falsche Aussage zum Selbstschutz' ist zulässig bei 'Gefahr strafrechtlicher Verfolgung'.
+'Falsche Aussage zum Schutz Angehöriger' ist zulässig bei 'entschuldbarer Beziehung'.
+'Art. 306–308' gilt für 'Verfahren vor Verwaltungsbehörden'.
+'Art. 306–308' gilt für 'Verfahren vor internationalen Gerichten'.
+'Befreiung oder Fluchthilfe für Eingewiesene' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Zusammenrottung zur Gefangenenbefreiung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Teilnehmer mit Gewaltanwendung' wird bestraft mit 'Freiheitsstrafe ≥ 3 Monate ≤ 3 Jahre oder Geldstrafe ≥ 90 Tagessätze'.
+'Teilnehmer mit Gewaltanwendung' wird bestraft mit 'Freiheitsstrafe ≥ 3 Monate ≤ 5 Jahre oder Geldstrafe ≥ 90 Tagessätze'.
+'Zusammenrottung in Anstalt mit Gewaltabsicht' wird bestraft mit 'Freiheitsstrafe 1 Monat bis 3 Jahre oder Geldstrafe ≥ 30 Tagessätze'.
+'Amtsmissbrauch durch Beamte' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Erhebung unzulässiger Gebühren durch Beamte' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Schädigung öffentlicher Interessen im Rechtsgeschäft' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Urkundenfälschung durch Beamte' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Urkundenfälschung durch Fahrlässigkeit' wird bestraft mit 'Geldstrafe'.
+'Urkundenherstellung mit Genehmigung' ist zulässig bei 'verdeckte Ermittlung oder NDG-Bewilligung'.
+'Urkundengebrauch im Zeugenschutz' ist zulässig bei 'Zeugenschutzgesetz'.
+'Falsches ärztliches Zeugnis' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Falsches ärztliches Zeugnis gegen Belohnung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Fluchthilfe durch Beamte' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verletzung des Amtsgeheimnisses' ist zulässig bei 'schriftliche Einwilligung vorgesetzte Behörde'.
+'Verletzung des Amtsgeheimnisses' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verletzung des Berufsgeheimnisses' ist zulässig bei 'Einwilligung oder Bewilligung'.
+'Verletzung des Berufsgeheimnisses' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verletzung des Berufsgeheimnisses' erfordert Antrag 'berechtigte Person'.
+'Verletzung Forschungsgeheimnis' wird beurteilt nach 'Art. 321'.
+'Offenbarung Forschungsgeheimnis' ist zulässig bei 'Ethikkommissionsbewilligung nach HFG'.
+'Verletzung Post-/Fernmeldegeheimnis' ist zulässig bei 'Ermittlung des Berechtigten'.
+'Verletzung Post-/Fernmeldegeheimnis' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Täuschung zur Geheimnisverletzung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Medienunternehmen' verlangt 'Offenlegung Sitz und Verantwortlicher'.
+'Zeitung' verlangt 'Impressum mit Redaktor'.
+'Verstoss gegen Art. 322' wird bestraft mit 'Busse'.
+'Verantwortlicher bei strafbarer Veröffentlichung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Verantwortlicher bei fahrlässiger Veröffentlichung' wird bestraft mit 'Busse'.
+'Strafverfolgung bei Antragsdelikt' erfordert Antrag 'Verfolgung des Autors'.
+'Vorteilsgewährung für pflichtwidrige Amtshandlung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Vorteilsforderung für pflichtwidrige Amtshandlung' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Vorteilsgewährung für Amtsführung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Vorteilsannahme für Amtsführung' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Vorteilsgewährung an ausländische oder internationale Amtsträger' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Vorteilsannahme durch ausländische oder internationale Amtsträger' wird bestraft mit 'Freiheitsstrafe ≤ 5 Jahre oder Geldstrafe'.
+'Vorteilsgewährung im privaten Sektor' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Leichter Fall Vorteilsgewährung' erfordert Antrag 'Verfolgung'.
+'Vorteilsannahme im privaten Sektor' wird bestraft mit 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Leichter Fall Vorteilsannahme' erfordert Antrag 'Verfolgung'.
+'Dienstlich erlaubte Vorteile' ist zulässig bei 'Genehmigung oder Geringfügigkeit'.
+'Private mit öffentlicher Aufgabe' ist unterworfen 'Amtsträgerstatus'.
+'Nichtbeistand bei Pfändung' wird bestraft mit 'Busse'.
+'Unvollständige Vermögensangabe bei Arrest' wird bestraft mit 'Busse'.
+'Unvollständige Vermögensangabe bei Güterverzeichnis' wird bestraft mit 'Busse'.
+'Verschweigen von Vermögen gegenüber Konkursamt' wird bestraft mit 'Busse'.
+'Nichtverfügbarkeit während Konkursverfahren' wird bestraft mit 'Busse'.
+'Nichtangabe von Vermögen eines verstorbenen/flüchtigen Schuldners' wird bestraft mit 'Busse'.
+'Nichtanmeldung als Schuldner' wird bestraft mit 'Busse'.
+'Nichtverfügbarmachung von Schuldnersachen an Konkursamt' wird bestraft mit 'Busse'.
+'Nichtablieferung von Schuldnersachen an Liquidatoren' wird bestraft mit 'Busse'.
+'Verletzung von Auskunfts-/Herausgabepflichten' wird bestraft mit 'Busse'.
+'Nichtführung von Geschäftsbüchern' wird bestraft mit 'Busse'.
+'Nichtaufbewahrung von Geschäftsunterlagen' wird bestraft mit 'Busse'.
+'Falsche Angaben in Zahlungsberichten' wird bestraft mit 'Busse'.
+'Unterlassene Berichterstattung zu Zahlungen' wird bestraft mit 'Busse'.
+'Nichtführung von Zahlungsberichten' wird bestraft mit 'Busse'.
+'Falsche Angaben in Nachhaltigkeitsberichten' wird bestraft mit 'Busse ≤ 100'000 CHF'.
+'Nichtaufbewahrung von Nachhaltigkeitsberichten' wird bestraft mit 'Busse ≤ 100'000 CHF'.
+'Fahrlässige Verstösse gegen Berichtspflichten' wird bestraft mit 'Busse ≤ 50'000 CHF'.
+'Drohung zur Verhinderung von Anfechtung durch Mieter' wird bestraft mit 'Busse'.
+'Kündigung wegen Wahrnehmung von Mieterrechten' wird bestraft mit 'Busse'.
+'Unzulässige Durchsetzung von Forderungen nach Scheitern' wird bestraft mit 'Busse'.
+'Strafverfolgung nach Art. 325quater' erfordert Antrag 'Mieter'.
+'Strafbare Mietrechtshandlungen in Organisationen' wird bestraft mit 'Busse'.
+'Kenntnis und Unterlassung durch Geschäftsherrn' wird bestraft mit 'gleiche Strafe wie Täter'.
+'Juristische Person als Geschäftsherr' ist unterworfen 'Strafe für schuldhafte Organe'.
+'Irreführende Handelsregisterbezeichnung' wird bestraft mit 'Busse'.
+'Irreführung durch nicht eingetragenen Rechtsträger' wird bestraft mit 'Busse'.
+'Täuschung über Sitz eines ausländischen Rechtsträgers' wird bestraft mit 'Busse'.
+'Falsche Auskunft durch Pensionskassenorgan' wird bestraft mit 'Busse'.
+'Nichtmeldung wirtschaftlich Berechtigter' wird bestraft mit 'Busse'.
+'Nichtführung gesetzlicher Verzeichnisse' wird bestraft mit 'Busse'.
+'Verletzung gesellschaftsrechtlicher Pflichten' wird bestraft mit 'Busse'.
+'Verletzung Vereinspflichten' wird bestraft mit 'Busse'.
+'Eindringen in militärische Anstalten' wird bestraft mit 'Busse'.
+'Abbilden oder Veröffentlichen militärischer Objekte' wird bestraft mit 'Busse'.
+'Versuch und Gehilfenschaft bei Art. 329' ist strafbar bei 'unrechtmässige Handlungen'.
+'Unbefugtes Tragen der Heeresuniform' wird bestraft mit 'Busse'.
+'Allgemeine Bestimmungen StGB' gilt für 'andere Bundesgesetze bei fehlender Regelung'.
+'Zuchthaus' ersetzt 'Freiheitsstrafe > 1 Jahr'.
+'Gefängnis' ersetzt 'Freiheitsstrafe ≤ 3 Jahre oder Geldstrafe'.
+'Gefängnis < 6 Monate' ersetzt 'Geldstrafe (1 Monat = 30 Tagessätze)'.
+'Tat mit Haft oder Busse' ist unterworfen 'Übertretung'.
+'Verbrechen mit Busse' wird beurteilt nach 'Art. 34'.
+'Busse < 1'080'000 CHF' ist unterworfen 'keine Begrenzung'.
+'Busse > 1'080'000 CHF' ist unterworfen 'Höchstzahl Tagessätze = Betrag ÷ 3000'.
+'Mindestanzahl Tagessätze' gilt für 'Mindestanzahl Tage Freiheitsstrafe'.
+'Verweisung auf geänderte Vorschrift' richtet sich nach 'entsprechende Bestimmung im StGB'.
+'Bekanntgabe von Personendaten' ist zulässig bei 'Rechtsgrundlage nach DSG 36 Abs. 1'.
+'Bekanntgabe von Personendaten' ist zulässig bei 'Schutz von Leben oder Unversehrtheit'.
+'Bekanntgabe von Personendaten' ist zulässig bei 'allgemeine Zugänglichmachung ohne Widerspruch'.
+'Bekanntgabe von Personendaten' verlangt 'Dokumentation'.
+'Bekanntgabe von Personendaten' verlangt 'Information zur Aktualität und Zuverlässigkeit'.
+'Bekanntgabe von Personendaten' verlangt 'Unterscheidung von Kategorien und Einschätzungen'.
+'Bekanntgabe an Schengen-Staat' gilt für 'gleiche Datenschutzregeln wie CH-Behörden'.
+'Spezialgesetz mit strengeren Regeln' ist subsidiär zu 'Regelung für Schengen-Staaten'.
+'Bekanntgabe an Drittstaat' ist zulässig bei 'Notwendigkeit für Schutz oder Strafverfolgung'.
+'Bekanntgabe an Drittstaat' ist unzulässig bei 'fehlendem Schutz und schwerer Gefährdung'.
+'Angemessener Schutz' besteht aus 'EU-Beschluss, Vertrag oder spezifische Garantie'.
+'Bundesbehörde' verlangt 'Information an EDÖB bei Garantiegrundlage'.
+'Bekanntgabe nach 349c Abs. 4' verlangt 'Information an EDÖB'.
+'Weitergabe Schengen-Daten an Drittstaat' ist zulässig bei 'Strafverfolgung, Zustimmung und Schutz'.
+'Bekanntgabe ohne Zustimmung' ist zulässig bei 'Gefahr für öffentliche Sicherheit oder wesentliche Interessen'.
+'Schengen-Staat' wird benachrichtigt bei 'Bekanntgabe ohne Zustimmung'.
+'Bekanntgabe in Notfall' ist zulässig bei 'gesetzlicher Aufgabe und fehlenden Interessen der betroffenen Person'.
+'Bekanntgabe in Notfall' verlangt 'Benachrichtigung Drittstaat'.
+'Empfänger' verlangt 'Zweckbindung der Daten'.
+'Bekanntgabe durch Bundesbehörde' verlangt 'Information an EDÖB'.
+'Unrichtige Personendaten' verlangt 'Berichtigung'.
+'Berichtigung' verlangt 'Benachrichtigung der übermittelnden Behörde'.
+'Informationspflicht' ist aufgehoben bei 'Ersichtlichkeit aus Daten oder Umständen'.
+'Betroffene Person' verlangt 'Prüfung der Datenbearbeitung durch EDÖB'.
+'Betroffene Person' verlangt 'Untersuchung durch EDÖB bei DSG-Verstoss'.
+'Prüfung durch EDÖB' ist zulässig bei 'Einschränkung von Rechten nach DSG'.
+'Prüfung durch EDÖB' richtet sich nach 'Art. 49 DSG bei Fehlern'.
+'EDÖB' ordnet 'Behebung von Datenfehlern durch Bundesbehörde'.
+'Mitteilung über Prüfung' ist unterworfen 'keine Begründung und nicht anfechtbar'.
+'Untersuchung' ist unterworfen 'nur gegen Bundesbehörde unter EDÖB-Aufsicht'.
+'Untersuchung' richtet sich nach 'Art. 49 DSG'.
+'Bundesamt für Polizei' ist unterworfen 'INTERPOL-Zentralbüroaufgaben'.
+'Bundesamt für Polizei' vermittelt 'Informationen zwischen nationalen und internationalen Behörden'.
+'Bundesamt für Polizei' vermittelt 'kriminalpolizeiliche Informationen für Strafverfolgung'.
+'Bundesamt für Polizei' vermittelt 'Informationen zur Vermisstensuche und Identifikation'.
+'Bundesamt für Polizei' vermittelt 'Informationen an Zentralbüros bei INTERPOL-Konformität'.
+'Bundesamt für Polizei' übermittelt 'Informationen zur Verhütung bei hoher Wahrscheinlichkeit'.
+'Bundesamt für Polizei' empfängt 'Informationen von Privaten mit Zustimmung'.
+'Bundesamt für Polizei' orientiert 'Private im Interesse Betroffener'.
+'Informationsaustausch' richtet sich nach 'Rechtshilfegesetz und INTERPOL-Reglement'.
+'Informationsaustausch zu Vermissten' richtet sich nach 'Datenschutzgesetz'.
+'Bund' gewährt 'Finanzhilfen an INTERPOL'.
+'Bund' verfügt über 'Strafen bei Bundesstrafgericht'.
+'Bund' ergreift 'präventive Massnahmen gegen Straftaten'.
+'Bund' unterstützt 'Projekte zur Kriminalprävention'.
+'Bund' beteiligt sich an 'Organisationen mit Präventionszielen'.
+'Departement' registriert 'biometrische erkennungsdienstliche Daten'.
+'Biometrische Daten' dürfen verwendet werden 'zur Identifizierung gesuchter Personen'.
+'Folgende Behörden' dürfen bearbeiten 'biometrische Daten'.
+'Personendaten' werden bearbeitet in 'getrennten Informationssystemen'.
+'Verwendung von Daten' ist zulässig bis 'Löschfrist DNA-Gesetz oder 5 Jahre bei Übertretung'.
+'fedpol oder SEM' überführt 'Daten in SIS'.
+'fedpol und NDB' geben weiter 'Personendaten an Europol'.
+'Weitergabe an Europol' richtet sich nach 'Abkommen vom 24. September 2004'.
+'fedpol' unterrichtet 'Europol über Zweck und Beschränkungen'.
+'fedpol' führt 'SIRENE-Büro für Schengen-Informationsaustausch'.
+'Datenaustausch mit Europol' gilt als 'Austausch mit Schengen-Behörde'.
+'Polizeiorgane' vollziehen 'Schengen-Abkommen nach innerstaatlichem Recht'.
+'Untersuchungsbehörde' informiert 'Zentralstelle bei ausländischer Pornografieherstellung'.
+'SIRENE-Büro' ist 'Anlauf- und Koordinationsstelle für SIS-Ausschreibungen'.
+'SIRENE-Büro' überprüft 'formelle Zulässigkeit von SIS-Ausschreibungen'.
+'Polizei- und Verwaltungsentscheide' sind gleichgestellt mit 'gerichtlichen Urteilen'.
+'Strafentscheide' sind vollstreckbar in 'ganzer Schweiz'.
+'Verwendung zugunsten Geschädigter' richtet sich nach 'Art. 73'.
+'Vermögensverwendung' richtet sich nach 'Teilungsgesetz 2004'.
+'Behörde' bestimmt 'Art und Form der Arbeit'.
+'Höchstarbeitszeit' ist unterworfen 'Überschreitung bei gemeinnütziger Arbeit'.
+'Arbeitssicherheit' gilt für 'gemeinnützige Arbeit'.
+'Anstaltsreglemente' richten sich nach 'StGB'.
+'Private Anstalten' unterstehen 'kantonaler Aufsicht'.
+'Kosten Strafvollzug' tragen 'Kantone'.
+'Gemeinwesen' haftet für 'Schaden bei Rückfall nach Verwahrung'.
+'Rückgriff auf Täter' richtet sich nach 'OR unerlaubte Handlung'.
+'Rückgriff auf Behördenmitglieder' richtet sich nach 'kantonales Recht oder VG 1958'.
+'Begnadigung bei Bundesurteilen' liegt bei 'Bundesversammlung'.
+'Bundesversammlung' kann gewähren 'Amnestie'.
+'Begnadigung bei Kantonsurteilen' liegt bei 'kantonale Begnadigungsbehörde'.
+'Begnadigungsgesuch' kann gestellt werden von 'Verurteilter oder Berechtigter mit Einwilligung'.
+'Bundesrat oder Kantonsregierung' ist befugt zu 'Einleitung Begnadigung bei politischen Straftaten'.
+'Begnadigungsbehörde' bestimmt 'Wartefrist für neues Gesuch'.
+'Begnadigung' ermöglicht 'Erlass oder Umwandlung der Strafe'.
+'Gnadenerlass' bestimmt 'Umfang der Begnadigung'.
+'Amnestie' schliesst aus 'Strafverfolgung bestimmter Taten'.
+'Privatvollzug' ist zulässig bei 'Einhaltung StGB-Vollzugsvorschriften'.
+'Kantonale Bestimmungen zu neuen Vollzugsformen' verlangt 'Bundesgenehmigung'.
+'Urteile nach altem Recht' werden vollzogen nach 'bisherigem Recht'.
+'Strafe entfällt' wenn 'neues Recht keine Strafdrohung vorsieht'.
+'Neues Vollzugsrecht' gilt für 'frühere Verurteilungen'.
+'Mildere Verjährung' gilt für 'frühere Taten'.
+'Früherer Zeitraum' wird angerechnet auf 'Verjährung'.
+'Antragsfrist' richtet sich nach 'Tatzeitrecht'.
+'Neue Antragspflicht' beginnt mit 'Inkrafttreten neuen Rechts'.
+'Tat mit neuer Offizialdeliktsregelung' bleibt 'antragsabhängig bei früherem Antragsdelikt'.
