@@ -1,0 +1,82 @@
+1. Variante: Körperverletzung (Faustschlag bei Betriebsfeier)
+a) Wie hat der Richter mit der bedingten Freiheitsstrafe vom 15. November 2017 zu verfahren?
+1. Relevanter Straftatbestand:
+Art. 46 Abs. 1 lit. a StGB – Widerruf des bedingten Vollzugs
+2. Objektiver Tatbestand:
+Der Täter hat sich während der Probezeit erneut einer Straftat schuldig gemacht.
+•	Verurteilung vom 15.11.2017: 9 Monate bedingt, Probezeit: 3 Jahre → läuft bis 15.11.2020
+•	Neue Tat (Faustschlag): 18.04.2020 → innerhalb der Probezeit
+•	Neue Straftat: einfache Körperverletzung i.S.v. Art. 123 StGB
+3. Subjektiver Tatbestand:
+Adrian handelte vorsätzlich, da er gezielt auf die Aussage des Arbeitskollegen reagierte und mit der Faust zuschlug.
+4. Rechtswidrigkeit:
+Keine Rechtfertigungsgründe ersichtlich (z.B. Notwehr gemäss Art. 15 StGB ist nicht gegeben).
+5. Schuld:
+Adrian ist schuldfähig, keine Hinweise auf Schuldunfähigkeit. Zwar provoziert, aber keine schwere Provokation i.S.v. Art. 48 lit. c StGB.
+6. Ergebnis:
+Gemäss Art. 46 Abs. 1 lit. a StGB kann der Richter den bedingten Vollzug widerrufen, wenn die neue Straftat eine Freiheitsstrafe nach sich zieht und das Verschulden dies rechtfertigt. Da es sich um eine mittelschwere Tat während der Probezeit handelt, liegt der Widerruf im pflichtgemässen Ermessen des Gerichts, ist hier aber wahrscheinlich angebracht.
+
+b) Kann der Richter für die neue Strafe (Körperverletzung) den bedingten Vollzug gewähren?
+1. Relevanter Straftatbestand:
+Art. 42 StGB – Bedingter Vollzug
+2. Objektiver Tatbestand:
+•	Freiheitsstrafe von nicht mehr als 2 Jahren → hier: 6 Monate
+•	Täter darf nicht einschlägig rückfällig sein
+3. Subjektiver Tatbestand (Prognose):
+Die Bewährungsaussichten werden geprüft:
+•	Bis zur neuen Tat: positive Entwicklung (Therapie, Arbeit, Beziehung)
+•	Neue Tat: einmalige Kurzreaktion auf Provokation
+•	Mögliche Annahme: Tat war situativ, nicht Ausdruck dauerhafter Rückfälligkeit
+4. Ergebnis:
+Der bedingte Vollzug ist grundsätzlich möglich, da die Voraussetzungen nach Art. 42 Abs. 1 StGB erfüllt sind. Trotz früherer Verurteilung kann erneut ein bedingter Vollzug gewährt werden, insbesondere da die neue Tat nicht einschlägig (nicht gleichartige Delikte wie Diebstahl oder Drogendelikte) und sozial eingebettet war.
+
+2. Variante: Raub zur Beschaffung von Drogen
+a) Wie hat der Richter mit der bedingten Freiheitsstrafe vom 15. November 2017 zu verfahren?
+1. Relevanter Straftatbestand:
+Art. 46 Abs. 1 lit. a StGB – Widerruf des bedingten Vollzugs
+2. Objektiver Tatbestand:
+Neue schwere Straftat (Raub) am 18.04.2020, innerhalb der Probezeit, neue Strafe: 3.5 Jahre Freiheitsstrafe
+3. Ergebnis:
+•	Klarer Widerrufsgrund gemäss Art. 46 Abs. 1 lit. a StGB
+•	Schwere Rückfälligkeit in einschlägige Kriminalität (zur Finanzierung von Drogenkonsum)
+•	Der Widerruf des früher gewährten bedingten Vollzugs ist hier obligatorisch anzunehmen.
+
+b) Anordnung einer stationären Suchtbehandlung – Voraussetzungen und Anwendung
+1. Relevanter Artikel:
+Art. 59 StGB – Stationäre therapeutische Massnahme
+2. Voraussetzungen gemäss Art. 59 Abs. 1 StGB:
+•	Schwere psychische Störung (hier: Suchtkrankheit)
+•	Zusammenhang zwischen Störung und Tat
+•	Behandlungsbedürftigkeit und -fähigkeit
+•	Erfolgsprognose (Therapie darf nicht von vornherein aussichtslos sein)
+•	Verhältnismässigkeit (Massnahme muss milderes Mittel als reine Freiheitsstrafe sein)
+3. Subsumtion:
+•	Sucht: Drogensucht vorhanden, Rückfall dokumentiert
+•	Tatmotiv: Drogensucht war unmittelbarer Auslöser des Raubs
+•	Behandlungsfähigkeit: Unklar, da Rückfall nach vorheriger Therapie
+•	Erfolgsaussicht: Problematisch, aber nicht ausgeschlossen
+→ Eine aktuelle psychiatrische Begutachtung wäre notwendig
+•	Verhältnismässigkeit: gegeben, da Suchtbehandlung gezielter wirkt als Strafe
+4. Ergebnis:
+Die Anordnung einer stationären therapeutischen Massnahme gemäss Art. 59 StGB ist grundsätzlich zulässig. Ob sie effektiv angeordnet wird, hängt von einem positiven Gutachten zur Therapiefähigkeit und -aussicht ab.
+
+c) Verhältnis der Massnahme zur Freiheitsstrafe
+1. Relevanter Artikel:
+Art. 57 Abs. 1 und 2 StGB – Verhältnis von Freiheitsstrafe und Massnahme
+2. Grundsatz:
+•	Massnahme hat Vorrang vor der Strafe (Art. 57 Abs. 1 StGB)
+•	Die Freiheitsstrafe wird nur vollzogen, wenn die Massnahme keinen Erfolg hat oder beendet ist (Art. 57 Abs. 2 StGB)
+3. Anwendung im Fall:
+•	Bei Anordnung der stationären Suchtbehandlung würde die Freiheitsstrafe von 3.5 Jahren zurückgestellt
+•	Nach erfolgreichem Abschluss kann evtl. auf den Vollzug der Freiheitsstrafe verzichtet oder sie angepasst werden (Art. 63b StGB)
+4. Ergebnis:
+Im Fall einer Massnahmenanordnung wird die Strafe nicht unmittelbar vollzogen. Vorrangig ist die Behandlung. Nur bei Scheitern oder Abbruch folgt der Strafvollzug.
+
+Zusammenfassendes Ergebnis
+Variante 1 – Körperverletzung
+•	a) Widerruf des bedingten Vollzugs von 2017 ist möglich und gerechtfertigt.
+•	b) Bedingter Vollzug für die neue Strafe ist trotz Vorverurteilung und Tat möglich, da situativer Rückfall.
+Variante 2 – Raub
+•	a) Der bedingte Vollzug muss widerrufen werden.
+•	b) Stationäre Massnahme gem. Art. 59 StGB ist grundsätzlich zulässig, bedarf aber gutachterlicher Prüfung.
+•	c) Die Massnahme geht der Freiheitsstrafe vor; Strafe wird nur bei Scheitern vollzogen.
