@@ -1,1 +1,68 @@
-Inital README
+This repository contains the code used to develop and evaluate a prototype of an assistance system in the domain of swiss criminal law.
+
+The prototype contains a RAG based architecture that retrieves vector embeddings out of a FAISS Vector-Database. The Database contains RDF-Triples
+that have been extracted from a knowledge Graph, that has been developed in the scope of this project. The corresponding neo4j.dump of said knowledge Graph
+can be found in this repository as well.
+
+The GraphRAG-folder contains the main code of the RAG-based prototype. 
+First of all I will list all the components and what role they play. Aftwards there will follow explanations and manuals how the components work and how to set up if needed.
+
+Components:
+  Executable Code:
+    - Extract_Facts.py
+    - Build_index.py
+    - GraphRAGV2.py
+
+  Non-executable components:
+    - graph_Facts.txt / graph_Facts.json
+    - faiss_knowledgegraph_index
+      - index.faiss
+      - index.pkl
+    - frage.txt
+
+What they do and how they work:
+  Extract_Facts.py:
+    What does it do?
+    This script extracts RDF-style triples from a Neo4j knowledge graph and saves them to both a .txt and .json file. Each triple represents a fact in the form: Subject, Predicate, Object.
+
+    How does it work?
+    First it connects to a local Neo4j database using credentials from a .env file.
+    It queries all relationships between nodes that have an id property.
+    Formats each relationship as a text-based triple.
+    It saves the extracted triples to: graph_facts.txt and graph_facts.json
+
+  Build_index.py:
+    What does it do?
+    This script converts RDF-style graph facts into vector embeddings using OpenAI and stores them in a FAISS index for efficient semantic search and retrieval.
+
+    How does it work?
+    It loads the graph facts from a JSON file (graph_facts.json), where each fact is a natural-language triple.
+    Wraps the facts as LangChain Document objects.
+    Generates vector embeddings using the OpenAIEmbeddings model.
+    Stores the embeddings in a local FAISS index (faiss_knowledgegraph_index) for later retrieval.
+
+  GraphRAG_V2:
+    What does it do?
+    This script performs legal reasoning over a case description by combining a knowledge graph, retrieval-augmented generation (RAG), and GPT-4o. It analyzes a Swiss criminal law case using structured legal logic.
+
+    How does it work?
+    It loads a legal case description from a text file (frage.txt).
+    Retrieves relevant facts from a FAISS-based knowledge graph index (faiss_knowledgegraph_index) using semantic search.
+    Injects both context and question into a structured prompt tailored to Swiss criminal law reasoning.
+    Uses GPT-4o to generate a legal analysis based on the Gutachtenstil (structured legal reasoning style).
+    Prints a detailed legal assessment, including references to relevant articles of the Swiss Penal Code (StGB).
+
+If there is interest in modifying ornfurther expanding the knowledge graph follow the following instruction to setup the knowledge Graph into a local Neo4J-Deskto-Database
+Prerequisites:
+  Neo4J-Desktop ist installed
+  the file "neo4j.dump" (from this repository) is downloaded
+
+
+
+
+
+
+
+
+
+
